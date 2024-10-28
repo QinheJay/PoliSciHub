@@ -3,13 +3,12 @@ import store from "../store/store";
 import Layout from "../components/Layout/layout.vue"
 import mLayout from "../components/Layout/mLayout.vue"
 import home from "../components/home/home.vue"
-import project from "../components/project/project.vue"
-import blog from "../components/blog/blog.vue"
-import about from "../components/about/about.vue"
+import ngo from "../components/ngo/ngo.vue"
+import resource from "../components/resource/resource.vue"
 
 const routes = [
     {
-        path: "/PoliSciHub", 
+        path: "/PoliSciHub/",
         name: "landing",
         component: store.state.display.isMobile ? mLayout : Layout,
         children: [
@@ -19,19 +18,14 @@ const routes = [
                 component: home
             },
             {
-                path: "project",
-                name: "project",
-                component: project
+                path: "non-governmental-organization",
+                name: "ngo",
+                component: ngo
             },
             {
-                path: "blog",
-                name: "blog",
-                component: blog
-            },
-            {
-                path: "about",
-                name: "about",
-                component: about
+                path: "resource",
+                name: "resource",
+                component: resource
             }
         ]
     },

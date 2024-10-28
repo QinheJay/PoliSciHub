@@ -1,13 +1,24 @@
-<script setup lang='ts'>
-import { ref } from 'vue'
-import {
-    NLayout, NLayoutHeader, NLayoutContent, NLayoutFooter
-} from 'naive-ui'
+<script setup>
+import router from '../../router/router';
 </script>
 
 <template>
     <n-layout class="container">
-        <n-layout-header>
+        <n-layout-header class="header">
+            <n-flex :align="'center'" :justify="'space-between'">
+                <n-flex :align="'center'" class="logo" @click="router.push({ name: 'home' })">
+                    <n-avatar :width="24" src="./PoliSciHub/logo/logo_320.jpg"></n-avatar>
+                    <b>
+                        Political
+                        Science
+                        <span class="primaryColor">Hub</span>
+                    </b>
+                </n-flex>
+                <n-flex :size="24">
+                    <n-button text @click="router.push({ name: 'ngo' })">Chinese NGO</n-button>
+                    <n-button text @click="router.push({ name: 'resource' })">Resource</n-button>
+                </n-flex>
+            </n-flex>
         </n-layout-header>
         <n-layout-content content-style="padding: 24px;">
             <router-view />
@@ -18,5 +29,19 @@ import {
 <style lang='less' scoped>
 .container {
     min-height: 100vh;
+
+    .header {
+        padding: 24px;
+    }
+
+    .logo {
+        font-size: 24px;
+        cursor: pointer;
+        transition: all 0.2s;
+
+        &:hover {
+            opacity: 0.8;
+        }
+    }
 }
 </style>
