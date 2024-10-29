@@ -1,11 +1,4 @@
 <script setup>
-import { ref } from 'vue'
-import {
-    NButton,
-    NImage
-} from 'naive-ui';
-
-const count = ref(0)
 </script>
 
 <template>
@@ -17,4 +10,34 @@ const count = ref(0)
     </div>
 </template>
 
-<style scoped></style>
+<style lang="less" scoped>
+.content {
+    width: 1200px;
+    margin: 0 auto;
+
+    .n-image {
+        border-radius: 3px;
+    }
+
+    .block1 {
+        min-height: calc(100vh - 87px - 48px);
+
+        .slogan {
+            font-size: 48px;
+            line-height: 1.4;
+        }
+
+        .startBtn {
+            margin-top: 48px;
+        }
+    }
+
+    .block2 {
+        min-height: 100vh;
+
+        .n-grid {
+            align-items: center;
+        }
+    }
+}
+</style>
