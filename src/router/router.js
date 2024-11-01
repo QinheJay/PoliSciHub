@@ -3,6 +3,7 @@ import store from "../store/store";
 import Layout from "../components/Layout/layout.vue"
 import mLayout from "../components/Layout/mLayout.vue"
 import home from "../components/home/home.vue"
+import event from "../components/event/event.vue"
 import ngo from "../components/ngo/ngo.vue"
 import resource from "../components/resource/resource.vue"
 
@@ -16,6 +17,11 @@ const routes = [
                 path: "",
                 name: "home",
                 component: home
+            },
+            {
+                path: "hot-event",
+                name: "event",
+                component: event
             },
             {
                 path: "non-governmental-organization",

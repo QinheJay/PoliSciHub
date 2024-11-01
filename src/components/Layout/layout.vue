@@ -15,6 +15,7 @@ import router from '../../router/router';
                     </b>
                 </n-flex>
                 <n-flex :size="24">
+                    <n-button text @click="router.push({ name: 'event' })">🔥 Hot Event</n-button>
                     <n-button text @click="router.push({ name: 'ngo' })">Chinese NGO</n-button>
                     <n-button text @click="router.push({ name: 'resource' })">Resource</n-button>
                 </n-flex>
@@ -23,6 +24,11 @@ import router from '../../router/router';
         <n-layout-content content-style="padding: 24px;">
             <router-view />
         </n-layout-content>
+        <n-layout-footer>
+            <n-flex :justify="'center'">
+                <div>2024 Copyright © <span class="copyright">Jay Yang</span>. All rights reserved.</div>
+            </n-flex>
+        </n-layout-footer>
     </n-layout>
 </template>
 
@@ -41,6 +47,15 @@ import router from '../../router/router';
 
         &:hover {
             opacity: 0.8;
+        }
+    }
+
+    .n-layout-footer {
+        background: rgba(224, 224, 224, 0.2);
+        padding: 24px;
+
+        .copyright {
+            color: var(--primary-color)
         }
     }
 }
