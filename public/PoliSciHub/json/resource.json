@@ -1,0 +1,106 @@
+[
+    {
+        "label": "Alevel Politics",
+        "children": [
+            {
+                "label": "Exam Skills",
+                "children": [
+                    {
+                        "label": "General",
+                        "children": [
+                            {
+                                "label": "PR EDEXCEL exam questions",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1gt42fbK38m_7LAXAvxnfTNgbUy0zq_MJ/view?usp=drive_link"
+                            },
+                            {
+                                "label": "PR Edexcel study guide",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR Essay writing skills for EDEXCEL politics",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR Exam types thinking about a politics EPQ",
+                                "type": "docx"
+                            },
+                            {
+                                "label": "PR Examination skills an essential guide",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR Get exam ready",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR How to answer a source question",
+                                "type": "docx"
+                            },
+                            {
+                                "label": "PR How to write an A star essay",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR How to write top-mark answers",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR Studying politics are you making progress",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR The EDEXCEL source question",
+                                "type": "pdf"
+                            },
+                            {
+                                "label": "PR UK politics _ political ideas Edexcel lockdown recovery checklist",
+                                "type": "docx"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Extra",
+                "children": []
+            },
+            {
+                "label": "Unit 1 UK Politics",
+                "children": []
+            },
+            {
+                "label": "Unit 2 UK Government",
+                "children": []
+            },
+            {
+                "label": "Unit 3 Core - Non-Core Political Ideas",
+                "children": []
+            },
+            {
+                "label": "Unit 4 Comparative Global Politics",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "AP US Government",
+        "children": []
+    },
+    {
+        "label": "Future World Order",
+        "children": []
+    },
+    {
+        "label": "Global Politics",
+        "children": []
+    },
+    {
+        "label": "Politics Ideologies",
+        "children": []
+    },
+    {
+        "label": "TPC Resources",
+        "children": []
+    }
+]

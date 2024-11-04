@@ -5,11 +5,15 @@ import {
 } from "naive-ui";
 import loading from '../Layout/loading.vue';
 import {
-    FileTrayFullOutline,
     Folder,
     FolderOpenOutline
 } from "@vicons/ionicons5";
-import { data } from './resource.js';
+import {
+    DocumentPdf,
+    DocumentWordProcessor,
+    Ppt,
+} from "@vicons/carbon";
+import { readJSON } from '../../api/handleJson';
 
 const render = ref(false);
 
@@ -36,7 +40,7 @@ const nodeProps = ({ option }) => {
     return {
         onClick() {
             if (!option.children && !option.disabled) {
-                console.log(option.link)
+                window.open(option.link, '_blank')
             }
         }
     };
@@ -45,10 +49,49 @@ const nodeProps = ({ option }) => {
 initial();
 
 function initial() {
-    resourceList.value = data;
-    render.value = true;
+    readJSON("resource").then(res => {
+        resourceList.value = res.data;
+        process(resourceList.value);
+        console.log(resourceList.value)
+        render.value = true;
+    })
 }
 
+function process(data) {
+    data.forEach(item => {
+        item.key = item.label;
+        item.prefix = () => h(NIcon, null, {
+            default: () => h(Folder)
+        })
+        if (item.type) {
+            item.label = item.label + "." + item.type;
+            switch (item.type) {
+                case "pdf":
+                    item.prefix = () => h(NIcon, null, {
+                        default: () => h(DocumentPdf)
+                    })
+                    break;
+                case "docx":
+                    item.prefix = () => h(NIcon, null, {
+                        default: () => h(DocumentWordProcessor)
+                    })
+                    break;
+                case "pptx":
+                    item.prefix = () => h(NIcon, null, {
+                        default: () => h(Ppt)
+                    })
+                    break;
+                default:
+                    break;
+            }
+        }
+        if (item.children && item.children.length) {
+            process(item.children);
+        } else if (!item.children && !item.type) {
+            item.disabled = true;
+        }
+    });
+}
 </script>
 
 <template>

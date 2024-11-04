@@ -269,5 +269,9 @@ const scrollToBottom = async (frame) => {
             align-items: center;
         }
     }
+
+    .block3 {
+        min-height: 100vh;
+    }
 }
 </style>
