@@ -7,7 +7,7 @@ import {
 import store from './store/store';
 
 // 这里是用来判断用户是否正在使用移动端设备来访问我们的页面
-store.state.display.isMobile = /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase());
+store.state.display.isMobile = /android|webos|iphone|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase());
 
 // 这里可以自定义主题色
 const themeOverrides = {

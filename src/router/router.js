@@ -1,37 +1,31 @@
 import { createWebHistory, createRouter } from "vue-router";
 import store from "../store/store";
-import Layout from "../components/Layout/layout.vue"
-import mLayout from "../components/Layout/mLayout.vue"
-import home from "../components/home/home.vue"
-import event from "../components/event/event.vue"
-import ngo from "../components/ngo/ngo.vue"
-import resource from "../components/resource/resource.vue"
 
 const routes = [
     {
         path: "/PoliSciHub/",
         name: "landing",
-        component: store.state.display.isMobile ? mLayout : Layout,
+        component: () => store.state.display.isMobile ? import('../components/Layout/mLayout.vue') : import('../components/Layout/layout.vue'),
         children: [
             {
                 path: "",
                 name: "home",
-                component: home
+                component: () => store.state.display.isMobile ? import('../components/home/mHome.vue') : import('../components/home/home.vue'),
             },
             {
                 path: "hot-event",
                 name: "event",
-                component: event
+                component: () => store.state.display.isMobile ? import('../components/event/mEvent.vue') : import('../components/event/event.vue'),
             },
             {
                 path: "non-governmental-organization",
                 name: "ngo",
-                component: ngo
+                component: () => store.state.display.isMobile ? import('../components/ngo/mNgo.vue') : import('../components/ngo/ngo.vue')
             },
             {
                 path: "resource",
                 name: "resource",
-                component: resource
+                component: () => store.state.display.isMobile ? import('../components/resource/mResource.vue') : import('../components/resource/resource.vue')
             }
         ]
     },
