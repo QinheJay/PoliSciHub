@@ -12,7 +12,6 @@ initial();
 function initial() {
     readJSON("event").then(res => {
         eventList.value = res.data;
-        console.log(eventList.value)
         render.value = true;
     })
 }

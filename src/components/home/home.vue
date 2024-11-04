@@ -5,7 +5,6 @@ import router from '../../router/router';
 const block2 = ref(null);
 
 const scrollToBottom = async (frame) => {
-    console.log(frame)
     window.scrollTo({ top: frame.clientHeight, behavior: "smooth" });
 };
 </script>

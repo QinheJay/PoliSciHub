@@ -52,7 +52,6 @@ function initial() {
     readJSON("resource").then(res => {
         resourceList.value = res.data;
         process(resourceList.value);
-        console.log(resourceList.value)
         render.value = true;
     })
 }
