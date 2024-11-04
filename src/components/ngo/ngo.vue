@@ -1,6 +1,6 @@
 <script setup>
-import { ref, computed, watch } from 'vue'
-import { decode } from 'js-base64';
+import { ref, watch } from 'vue'
+// import { decode } from 'js-base64';
 import { readJSON } from '../../api/handleJson';
 import loading from '../Layout/loading.vue';
 
@@ -94,20 +94,17 @@ function refresh() {
                     </n-icon>
                 </template>
             </n-input>
-            <n-grid v-if="ngoListDisplay.length" :cols="4" :x-gap="24" :y-gap="24">
+            <!-- <n-flex v-if="!inputVal" :justify="'center'">
+                <n-pagination v-model:page="page" v-model:page-size="pageSize" :page-count="pageCount"
+                    @update:page="handleUpdatePage" />
+            </n-flex> -->
+            <n-grid v-if="ngoListDisplay.length" :cols="3" :x-gap="24" :y-gap="24">
                 <n-gi v-for="ngo in ngoListDisplay">
                     <n-card class="ngoCard">
                         <template #header>
                             <n-ellipsis line-clamp="1">{{ ngo.en }}</n-ellipsis>
                         </template>
                         <n-flex class="ngoCard__content" vertical>
-                            <div>
-                                <n-text :depth="3">Contact: </n-text>
-                                <div v-if="ngo.contact">
-                                    <n-ellipsis line-clamp="1">{{ ngo.contact }}</n-ellipsis>
-                                </div>
-                                <n-skeleton v-else text :animated="false" />
-                            </div>
                             <div>
                                 <n-text :depth="3">Telephone: </n-text>
                                 <div v-if="ngo.telephone">
@@ -159,15 +156,6 @@ function refresh() {
                 <n-flex :size="24" vertical>
                     <n-grid :cols="2" class="ngoCard__content" :x-gap="24" :y-gap="24">
                         <n-gi>
-                            <n-text :depth="3">Contact: </n-text>
-                            <div v-if="curNgo.contact">
-                                <n-ellipsis line-clamp="1">{{ curNgo.contact }}</n-ellipsis>
-                            </div>
-                            <div v-else>
-                                <n-skeleton text :animated="false" style="width: 50%" />
-                            </div>
-                        </n-gi>
-                        <n-gi>
                             <n-text :depth="3">Telephone: </n-text>
                             <div v-if="curNgo.telephone">
                                 <n-ellipsis line-clamp="1">{{ curNgo.telephone }}</n-ellipsis>
@@ -204,24 +192,6 @@ function refresh() {
                             </div>
                         </n-gi>
                         <n-gi>
-                            <n-text :depth="3">Registration: </n-text>
-                            <div v-if="curNgo.registration">
-                                <n-ellipsis line-clamp="1">{{ curNgo.registration }}</n-ellipsis>
-                            </div>
-                            <div v-else>
-                                <n-skeleton text :animated="false" style="width: 50%" />
-                            </div>
-                        </n-gi>
-                        <n-gi>
-                            <n-text :depth="3">Address: </n-text>
-                            <div v-if="curNgo.address">
-                                <n-ellipsis line-clamp="3">{{ curNgo.address }}</n-ellipsis>
-                            </div>
-                            <div v-else>
-                                <n-skeleton text :animated="false" style="width: 50%" />
-                            </div>
-                        </n-gi>
-                        <n-gi>
                             <n-text :depth="3">Regions: </n-text>
                             <div v-if="curNgo.regions">
                                 <n-ellipsis line-clamp="1">{{ curNgo.regions }}</n-ellipsis>
@@ -230,16 +200,23 @@ function refresh() {
                                 <n-skeleton text :animated="false" style="width: 50%" />
                             </div>
                         </n-gi>
+                        <n-gi v-if="curNgo.address">
+                            <n-text :depth="3">Address: </n-text>
+                            <div>
+                                <n-ellipsis line-clamp="3">{{ curNgo.address }}</n-ellipsis>
+                            </div>
+                        </n-gi>
                     </n-grid>
                     <div>
                         <n-flex :size="8" vertical>
                             <n-text :depth="3">Introducion: </n-text>
                             <n-card>
                                 <div v-if="curNgo.introduction">
-                                    <div v-html="decode(curNgo.introduction)"></div>
+                                    <!-- <div v-html="decode(curNgo.introduction)"></div> -->
+                                    <div>{{ curNgo.introduction }}</div>
                                 </div>
                                 <div v-else>
-                                    <n-skeleton text :animated="false" :repeat="6" />
+                                    <n-skeleton text :animated="false" :repeat="3" />
                                     <n-skeleton text style="width: 60%" />
                                 </div>
                             </n-card>
@@ -265,17 +242,17 @@ function refresh() {
         }
 
         .ngoCard__content {
-            min-height: 300px;
+            min-height: 248px;
         }
     }
+}
 
-    .textClick {
-        cursor: pointer;
-        transition: all 0.2s;
+.textClick {
+    cursor: pointer;
+    transition: all 0.2s;
 
-        &:hover {
-            color: var(--primary-color)
-        }
+    &:hover {
+        color: var(--primary-color)
     }
 }
 </style>
