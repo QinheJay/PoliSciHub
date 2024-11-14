@@ -192,7 +192,7 @@ const scrollToBottom = async (frame) => {
                                 </p>
                             </div>
                             <n-flex>
-                                <n-button @click="router.push({ name: 'ngo' })">To Chinese Ngos Page</n-button>
+                                <n-button @click="router.push({ name: 'ngo' })">To Chinese NGOs Page</n-button>
                                 <n-button @click="router.push({ name: 'resource' })">To Resource Page</n-button>
                             </n-flex>
                         </n-flex>
