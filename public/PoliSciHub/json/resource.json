@@ -289,7 +289,7 @@
         "children": [
             {
                 "label": "Google Drive",
-                "type": "Dive",
+                "type": "Drive",
                 "link": "https://drive.google.com/drive/folders/1henGDqKVyTwyfs5ogB3kbtS1KOMmaoav?usp=drive_link"
             }
         ]
