@@ -87,27 +87,74 @@
         "label": "AP US Government",
         "children": [
             {
-                "label": "Unit 4 Comparative Global Politics",
+                "label": "Powerpoint Slides",
                 "children": [
                     {
-                        "label": "General",
-                        "children": [
-                            {
-                                "label": "PR EDEXCEL exam questions",
-                                "type": "pdf",
-                                "link": ""
-                            }
-                        ]
+                        "label": "USGOV Unit 1 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1uwZwOgyPbOA_mdopraM-qR3UcAUwT19J/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 2 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1SzZH_FWEqRaqSKOKYl6QTr_PWGtVZcy8/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 3 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1KkAhTR6QNGJz480AbRbLPFrEHG7zmFq6/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 4 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/17ClToXVnXvlchc2GHyDoWwKEpeWTj26B/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 5 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1lkzAB63_1nysNGUGwpnJvM5u2YLPiXen/view?usp=drive_link"
                     }
                 ]
             },
             {
-                "label": "Unit 4 Comparative Global ",
-                "children": []
+                "label": "General Resources",
+                "children": [
+                    {
+                        "label": "Required Documents USGOV",
+                        "type": "docx",
+                        "link": "https://docs.google.com/document/d/1cuRFESDW9PZzddquR8obsaYQdqkrg1VJ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "APGOV Study Guide",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1gXTHqmIpaO-xsir9FqiZh73xdxjDAFWW/view?usp=drive_link"
+                    }
+                ]
             },
             {
-                "label": "Unit 4 Comparative",
-                "children": []
+                "label": "Practice Questions",
+                "children": [
+                    {
+                        "label": "Baron 1",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1cUJgVchmW0ca-ytrbPQa91VYgaY8lhsx/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Baron 2",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1r5LLXKfUhyFE0UAspl0kqPdKayKOOnyC/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Princeton 1",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1DCQKYUqRoA-saYuPjeBs8wzq29xvcjd1/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Princeton 2",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/192vYv4ciyHRdo3OYvlVx42QRJVbGOstV/view?usp=drive_link"
+                    }
+                ]
             }
         ]
     },
@@ -236,5 +283,14 @@
     {
         "label": "Academic Writing Resources",
         "children": []
+    },
+    {
+        "label": "Theoretical Politics Club",
+        "children": [
+            {
+                "label": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/1henGDqKVyTwyfs5ogB3kbtS1KOMmaoav?usp=drive_link"
+            }
+        ]
     }
 ]
