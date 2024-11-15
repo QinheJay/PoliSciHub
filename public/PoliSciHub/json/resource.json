@@ -113,18 +113,40 @@
     },
     {
         "label": "Future World Order",
+        "children": [
+            {
+                "label": "What is Global Order",
+                "children": [
+                    {
+                        "label": "PPT What is Global Order",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1q_ReIv3ccfG5R6FVoRp8PCxT3qKLJm53/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Reading 1- de Buck",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1OgvhQ652k_JRQibqtG8vrUomEbmWBYrH/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 2- Slaughter",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1fnTl_tLbV-N9551AciLuGmOdod4EM4S5/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 3- Jones",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1Pk2_daJWV3QJMmCbenAYJ9hAOXxdofVC/view?usp=drive_link"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Unit 4 Comparative Global ",
         "children": []
     },
     {
-        "label": "Global Politics",
-        "children": []
-    },
-    {
-        "label": "Politics Ideologies",
-        "children": []
-    },
-    {
-        "label": "TPC Resources",
+        "label": "Unit 4 Comparative",
         "children": []
     }
 ]
