@@ -11,59 +11,66 @@
                             {
                                 "label": "PR EDEXCEL exam questions",
                                 "type": "pdf",
-                                "link": ""
+                                "link": "https://drive.google.com/file/d/1wjqsiyflLPZw-YBrrw7G6mV6k9Shx1oP/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Edexcel study guide",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1W9FmTgAEAt744OMVeR8hiRc4q3RoR00o/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Essay writing skills for EDEXCEL politics",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1MRzjPMjdqDQfl-csrjbLsUe5Q4ExymZB/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Exam types thinking about a politics EPQ",
-                                "type": "docx"
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1K96pCLeeay1tvRwVoz6Axm9LqPQYY3kC/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             },
                             {
                                 "label": "PR Examination skills an essential guide",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1LbSrjmLhOMgdXixmScBRTtM421AOSN-E/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Get exam ready",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1EsQGLQXx-RN2al1AmaY3Lnhmu87InbPi/view?usp=drive_link"
                             },
                             {
                                 "label": "PR How to answer a source question",
-                                "type": "docx"
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/16g7FH0GncSSjtjcUHAUtkMR_IFP-6ruU/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             },
                             {
                                 "label": "PR How to write an A star essay",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/15WJE_iAZzis_t7MJnX3u8E7XbA11dhmI/view?usp=drive_link"
                             },
                             {
                                 "label": "PR How to write top-mark answers",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/16sBED4ElwvKqDjkqPPGfKZectW8DNRSE/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Studying politics are you making progress",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1mNtpLWhMYhQQ5gTLDxxK_kW5qy92JZgs/view?usp=drive_link"
                             },
                             {
                                 "label": "PR The EDEXCEL source question",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1IT26mzHdt5AT7cYGrT_q60uRqbuFo6bI/view?usp=drive_link"
                             },
                             {
                                 "label": "PR UK politics _ political ideas Edexcel lockdown recovery checklist",
-                                "type": "docx"
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1_DGcStH5OoUj-URy-a44QVZ4OoaFbJjX/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "label": "Extra",
-                "children": []
             },
             {
                 "label": "Unit 1 UK Politics",
@@ -400,8 +407,23 @@
         "label": "Theoretical Politics Club",
         "children": [
             {
-                "label": "Google Drive",
-                "type": "Drive",
+                "label": "Introduction to the ECA",
+                "type": "docx",
+                "link": "https://docs.google.com/document/d/1KF5J3-xuGpkomkD_Si8F0hP-I5uACXVL/edit?usp=sharing&ouid=105541633004952955981&rtpof=true&sd=true"
+            },
+            {
+                "label": "Syllabus SCIE TPC 2024 Fall-Winter",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1pZc5t39lAqLFQ9Msg58-0zLSN0v_yDsp/view?usp=drive_link"
+            },
+            {
+                "label": "Google Drive Instructions TPC",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1No4N-6F-79_BYC-1uxt4CVKTaPs0MvJ3/view?usp=drive_link"
+            },
+            {
+                "label": "ECA Materials",
+                "type": "Google Drive",
                 "link": "https://drive.google.com/drive/folders/1henGDqKVyTwyfs5ogB3kbtS1KOMmaoav?usp=drive_link"
             }
         ]
