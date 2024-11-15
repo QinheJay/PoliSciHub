@@ -282,7 +282,48 @@
     },
     {
         "label": "Academic Writing Resources",
-        "children": []
+        "children": [
+            {
+                "label": "Intro to Academic Essay Writing Guide (Chinese)",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/13bzY81BCm-GFOrX2YlvTF3fist4pWTlo/view?usp=drive_link"
+            },
+            {
+                "label": "Avioding 'This Essay Will'",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1iqCsFqOuV4Qe_jzOyjPrmipHcpPYMb2I/view?usp=drive_link"
+            },
+            {
+                "label": "Annotated Bibliography",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1dlWS0S9xTtpu7MH_cS-GJK0NNr-M6s-W/view?usp=drive_link"
+            },
+            {
+                "label": "Literature Review",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1ReOQZrA43FV0HZqqYBtsMjAUU4SjUuI9/view?usp=drive_link"
+            },
+            {
+                "label": "General Writing Tips (Argumentative Essays)",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1JeMCT3ZNMuX5pblslnG4P5ClMacnPpx1/view?usp=drive_link"
+            },
+            {
+                "label": "How To Use Scientific Vocab in Your Essay",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1vE6r-eCtuXBewT77E37auxiQxjEAwxV1/view?usp=drive_link"
+            },
+            {
+                "label": "How to Structure a Paragraph",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1P-TG4xBfudiHkXDSUVyN7IGgI-cBLry-/view?usp=drive_link"
+            },
+            {
+                "label": "Making Your Quotes Work for You",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1veCPkqprO0wN3x5A6cMNd3VsK0n9ndkE/view?usp=drive_link"
+            }
+        ]
     },
     {
         "label": "Theoretical Politics Club",
