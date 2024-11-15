@@ -277,8 +277,79 @@
         "children": []
     },
     {
-        "label": "General Resources",
-        "children": []
+        "label": "Studying Poli Sci on Your Own",
+        "children": [
+            {
+                "label": "Textbooks for Self-Study",
+                "children": [
+                    {
+                        "label": "McGlinchey et al- International Relations Theory",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/15dFFs4ElXHCuAQWzVnli8ZMr9unTlK_R/view?usp=sharing"
+                    },
+                    {
+                        "label": "Miller- Political Philosphy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1IfMk1gsI7k1EjfouexNm2-IKFEv4_4sI/view?usp=sharing"
+                    },
+                    {
+                        "label": "Kymlicka- Contemporary Political Philosophy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1fUJph8Q_EPTlI_7InzAfXTb9eW-dlaym/view?usp=sharing"
+                    },
+                    {
+                        "label": "Drezner- Theories of International Politics and Zombies",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/13qvuqZQz-oJbwPIGbe2f_hmF1PvLNwZk/view?usp=sharing"
+                    },
+                    {
+                        "label": "Kegley and Raymond- The Global Future A Brief Introduction to World Politics",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1nW87CfwVR4pSHu5Wk-0_ST4i_AyGOLaz/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Wolff- An Introduction to Political Philosophy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/127TC2CRgx4cOBZp-gWMtBAFqxCsFox1v/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Garner et al- Introduction to Politics (Second Canadian Edition)",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1GcMagOETbO8PkJdd0sF1go-XLSmWb_t3/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Carlsnaes et al- Handbook of International Relations",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1Du3p0ULFUVk9-I2PvdfRK23eqHS17E7R/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "Reading Lists",
+                "children": [
+                    {
+                        "label": "International Relations Recommended Readings",
+                        "type": "xlsx",
+                        "link": "https://docs.google.com/spreadsheets/d/1_nLwlOogScQAzFjaJNdD7lhzBSIl_FPp/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Philosophy Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/15JOLo-fqCOKxRWFbRTtknAD4OrxhaykL/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Comparative Politics Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1PyTCTn_cG4lL5lG8-yTtV3kyvIEOeEeI/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Political Theory Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1FBnMQtzinMVhpYmj6y-51oXjX-SpT-ar/view?usp=drive_link"
+                    }
+                ]
+            }
+        ]
     },
     {
         "label": "Academic Writing Resources",
