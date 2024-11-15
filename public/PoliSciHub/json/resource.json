@@ -461,14 +461,23 @@
     },
     {
         "label": "Political Ideologies",
-        "children": [ { "label": "Political Ideologies Unit for AL Politics",
-        "type": "Google Drive",
-        "link": "https://drive.google.com/drive/folders/1pRxwyepe7YH1oUquAfLLBGPLbqFivXvL?usp=drive_link"}]
-    }, {
+        "children": [
+            {
+                "label": "Political Ideologies Unit for AL Politics",
+                "type": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/1pRxwyepe7YH1oUquAfLLBGPLbqFivXvL?usp=drive_link"
+            }
+        ]
+    },
+    {
         "label": "Global Politics",
-        "children": [ { "label": "Global Politics Unit for AL Politics",
-        "type": "Google Drive",
-        "link": "https://drive.google.com/drive/folders/1Rzvi5rYt97sN-qnfEN8ttal3UQD0jhRa?usp=drive_link"}]
+        "children": [
+            {
+                "label": "Global Politics Unit for AL Politics",
+                "type": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/1Rzvi5rYt97sN-qnfEN8ttal3UQD0jhRa?usp=drive_link"
+            }
+        ]
     },
     {
         "label": "Studying Poli Sci on Your Own",
