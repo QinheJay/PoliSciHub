@@ -120,7 +120,7 @@ const scrollToBottom = async (frame) => {
                                         <p>
                                             <b style="font-size: 24px">Niccolò Machiavelli</b> was a Renaissance
                                             political philosopher best known
-                                            for *The Prince*, where he explores the use of pragmatism and power in
+                                            for The Prince, where he explores the use of pragmatism and power in
                                             governance.
                                         </p>
                                         <p>
