@@ -292,19 +292,9 @@
                                 "label": "Liberal Democrats",
                                 "children": [
                                     {
-                                        "label": "",
-                                        "type": "pdf",
-                                        "link": ""
-                                    },
-                                    {
-                                        "label": "",
-                                        "type": "pdf",
-                                        "link": ""
-                                    },
-                                    {
-                                        "label": "",
-                                        "type": "pdf",
-                                        "link": ""
+                                        "label": "The return of the Lib Dems?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1yDm4hzS2r_X0PkM2-Nhna0jUy9FvqOQA/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                                     }
                                 ]
                             },
@@ -337,19 +327,39 @@
                                 "label": "Other",
                                 "children": [
                                     {
-                                        "label": "",
+                                        "label": "The UK Party System- Is it changing?",
                                         "type": "pdf",
-                                        "link": ""
+                                        "link": "https://drive.google.com/file/d/1u2hEHLS7I1A5EaAvqwSUNlKklEggqAvv/view?usp=drive_link"
                                     },
                                     {
-                                        "label": "",
+                                        "label": "UK party politics- the return of the left/right divide?",
                                         "type": "pdf",
-                                        "link": ""
+                                        "link": "https://drive.google.com/file/d/10HaGpGGHytB_iDArt85FNKlLX7VSOkNF/view?usp=drive_link"
                                     },
                                     {
-                                        "label": "",
+                                        "label": "Party factions in the UK",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1h9vkiNVnG9-cx3KqslyP_dHOfgjp3uxu/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Party conferences- what is the point?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1QcH7OwVSJurkGOQxTOUKPF3YY0vE0ioZ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Party Funding",
                                         "type": "pdf",
-                                        "link": ""
+                                        "link": "https://drive.google.com/file/d/1A5BwXcFb5FktkJ7BdSiSS6fqmkob2nij/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Electing (and ejecting) party leaders",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/17Dpot-6pk0Ialt0mR3WI4rVIgaJnLTUS/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How to answer questions on electing party leaders",
+                                        "type": "ppt",
+                                        "link": "https://docs.google.com/presentation/d/1e63ZH0NEj1Vw5kUm2gJtpov9P9MgN-fs/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                                     }
                                 ]
                             }
@@ -359,12 +369,54 @@
                         "label": "Electoral Systems",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Referendums since 1997 how and why have they been used",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1jmj6M56tI2xXF1I5rFLfvqnEbwkOXICA/view?usp=drive_link"
                             },
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Should the voting age be reduced to 16?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1cHzisDrEZRrifQpsOC1fVQX6lsrYXCAz/view?usp=drive_link"
+                            },
+                            {
+                                "label": "FPTP: not fit for purpose?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1n4PcX7AdLvJUJdF29-AZcJNbRdosO-TH/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Alternatives to FPTP",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1GJ0hKFLHjGTCDNdLYrH0NvGtF7J6iNpP/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Should the UK increase its use of referendums?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1Tlp1s8q1pMbM9bVTc5OG3eYt5vmgxrTw/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Assessing the UK's FPTP",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1YqJO1EqHazoGX7da5v63dHj7FLk_zgb8/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Are referendums the best form of democracy?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/18Wy-eRx74jDbzaHlFv1HbE1t_q-OpGC7/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Can UKIP win seats under FPTP?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1MpC0q9b9IY1Ym4NalVon2WbBkoeXlH9F/view?usp=drive_link"
+                            },
+                            {
+                                "label": "What are the differences between general elections and by-elections",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1iSWkUBREamVVMoTKhwGp6q-cwnxXftwT/view?usp=drive_link"
+                            },
+                            {
+                                "label": "UK electoral systems",
+                                "type": "ppt",
+                                "link": "https://docs.google.com/presentation/d/1te48Z1buB0OxCAMe7ZZ8Qn05tk_nMni4/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             }
                         ]
                     },
