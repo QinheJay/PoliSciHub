@@ -424,8 +424,54 @@
                         "label": "Voting Behaviour and the Media",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Voting Behaviour: How do voters decide in elections?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/13j_fLny2uMvIExKFZ7zVSUcnsdcnlFrg/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Social Media: Enhancing or threatening democracy?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/16dZ72UOwLQdkxoNoR3Hv1v5p99X3QpB6/view?usp=drive_link"
+                            },
+                            {
+                                "label": "UK Politics Post-Brexit Britain",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1o4fjKDzkVUW0F3wSkqla5ija0TNNU1S2/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "The media and voting behaviour",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1npOGOLsigjyvHOOmquElJG9EvTSBowlf/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Social Media UK Politics",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1BQ4PBKssycE_TZB0vxe36_RwLHKD4urM/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Age and voting behaviour",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1OjYPN-xjaia4tCWpeg95uSlhkR_paOee/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "What can we learn about voting behaviour from the 2019 general election?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/178tvG9vSCHq7R8gPkbDE8NSLr9OOkM9o/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Voting Behaviour",
+                                "type": "ppt",
+                                "link": "https://docs.google.com/presentation/d/1FvPbcaR7ZUczPmhGlRdkCBXF5U0jExgm/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Essay on the role of the media in voting behaviour",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1bwDNi8N8zZ8A18gGKaTBwVlZMimG7GYO/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The influence of the media in UK politics",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1zWLsKAkYLaopE5e4mZ8KpzNWXIR5KotO/view?usp=drive_link"
                             }
                         ]
                     },
@@ -433,8 +479,68 @@
                         "label": "General Election Case Studies",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "1979 Elections",
+                                "children": [
+                                    {
+                                        "label": "1979",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1Pp5TWCorzeBvGQvC0BTw0xht7FOHkVEk?usp=drive_link"
+                                    }
+                                ]
+                            },{
+                                "label": "1997 Elections",
+                                "children": [
+                                    {
+                                        "label": "1997",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/16YfqFF6Og40uAfXKTWhcwsRMP6rpwyDq?usp=drive_link"
+                                    }
+                                ]
+                            },{
+                                "label": "2010 Elections",
+                                "children": [
+                                    {
+                                        "label": "2010",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1DdF--2Brh6FdwcpcZsIV2yKU0kZdnleV?usp=drive_link"
+                                    }
+                                ]
+                            },{
+                                "label": "2015 Elections",
+                                "children": [
+                                    {
+                                        "label": "2015",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1kqhwLZxcxmETaHYyMqV7OYvBpLJjSNbw?usp=drive_link"
+                                    }
+                                ]
+                            },{
+                                "label": "2017 Elections",
+                                "children": [
+                                    {
+                                        "label": "2017",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1QGX3MpGfAXf8J7tasvC3sbcaFbqFlZCw?usp=drive_link"
+                                    }
+                                ]
+                            },{
+                                "label": "2019 Elections",
+                                "children": [
+                                    {
+                                        "label": "2019",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1wbyD8Beyjfwnuc8D15-oVXeUio_LqbxR?usp=drive_link"
+                                    }
+                                ]
+                            },{
+                                "label": "Other Elections",
+                                "children": [
+                                    {
+                                        "label": "Extra",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1lgjDPx9wcdJZXvjElrpslmQXg6A9kIBy?usp=drive_link"
+                                    }
+                                ]
                             }
                         ]
                     }
