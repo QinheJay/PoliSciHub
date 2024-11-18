@@ -679,8 +679,159 @@
                         "label": "Parliament",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Overall",
+                                "children": [
+                                    {
+                                        "label": "Parliament as a check on executive power",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14nRJ5jCeZOQjfYvgGBtU6Xlf1JHKuqFV/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliamentary sovereignty and Article 50",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1oCJ373_gYDHTqNDawoRT1RXnL2U6LadB/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "How effective is Parliament?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1sOEW_M0PPfyHziwy2vFIlSWW6XhJ13Io/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Parliament: Does the opposition matter?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1pIF62vc9SV5dKJe0jofItlqL5mEPxL6S/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The role of the House of Commons and the House of Lords",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14ygaIgi5h3kNBBSlfqvmrw0vd3vC9L18/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliamentary privilege",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/11y3qFd3VGixMTPJYv9hfki-yxiIvzInq/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Has Brexit empowered Parliament?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1YiOp8Au-EJloubQIXOfZPfpG_fMHeTLK/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliament: a guide to its traditions",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1SaHExr2dRw1C_4mcA3LCn4e7t44T7nH2/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "The prorogation of Parliament",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1SkcdZI6VcZ4VxFt9Low53VC9DGFvy0sl/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How effective has parliamentary scrutiny been during the COVID-19 crisis",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1VndPTWXB4zsmfrJWtuHfrOb0iMOQWUDR/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Devolution and the future of England",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1YcPeeqON4UJW9jHoZKSiyijf81PvGFh0/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliament and government in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Umd_YGlDt3kqsie26Te21peiZ7oNhitb/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Committees",
+                                "children": [
+                                    {
+                                        "label": "The UK Constitution: key historical documents",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1reewA20VeAyIPlyy4C5piBKgt2NDCGDw/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Human Rights Act: why is it difficult to reform?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1tdzmm9XSladuN0m0-jVmhjphxRy-bBih/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Constitutional developments in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ua1gbR8lsY4gdyFtNj0l21G52OQ1zECG/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "House of Commons",
+                                "children": [
+                                    {
+                                        "label": "The UK constitution: How successful have recent reforms been?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1wvdfCFMbrbRoZK58j9-_7jZinJDnIHYx/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "UK constitutional reform since 1997",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1EuL_ZJxBnQVMzGSPsyyF69JG0CZ8QyGg/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Has post-2010 constitutional reform failed?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1hZFroDic-eJOrOCeF2ws_vMg8pXFnRj6/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Essay question: 'Evaluate the view that the UK should introduce a condified constitution'",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1fyTI1_CjC2xXVkguhmlkr5R70p7HKidB/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Does the UK need a codified constitution?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14T1-EH3IhJx6VVWdQytmvRdJT8aWR30k/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Is the UK's constitution working?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ENpp3mCsZ3oFvO-gqzyyqY2mp0ZcCbDI/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "House of Lords",
+                                "children": [
+                                    {
+                                        "label": "Devolution in Wales: an insiders guide to devolved powers",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1VFlhPc_oYeU9u4omcGHRH7ZWStDomLJk/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Devolution in the UK: Has it been a success?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/11DLH--5b6G_FbHgPlZexfRjJ0NQ3WJrO/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Metro Mayors: A significant step in decentralising power?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1xPgCvObBEE-48m-pfFN4mtHNNBv26rUa/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Should there be further devolution?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1XJyD4wC1_cciCyCwEUxo634NOPOLy8oB/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The role and power of the Scottish parliament",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1G3JGp2JMiV805MVALvoNL2KAkLJApoUv/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Devolution worksheet",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1c6Mm6EEG4ECNEdM2iXlsy511MUUGzAHE/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
                             }
                         ]
                     },
