@@ -32,7 +32,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHashHistory("/PoliSciHub/"),
+    history: createWebHashHistory("/"),
     routes,
 });
 

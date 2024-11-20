@@ -27,7 +27,7 @@ const scrollToBottom = async (frame) => {
                                 <n-popover placement="right" trigger="click" :show-arrow="false">
                                     <template #trigger>
                                         <div>
-                                            <n-image src="./PoliSciHub/home/John_Locke.jpg" height="220"
+                                            <n-image src="./home/John_Locke.jpg" height="220"
                                                 preview-disabled></n-image>
                                             <div class="gradient_overlay"></div>
                                             <div class="portrait_name">John Locke</div>
@@ -53,7 +53,7 @@ const scrollToBottom = async (frame) => {
                                 <n-popover placement="right" trigger="click" :show-arrow="false">
                                     <template #trigger>
                                         <div>
-                                            <n-image src="./PoliSciHub/home/John_Mearsheimer.jpg" height="220"
+                                            <n-image src="./home/John_Mearsheimer.jpg" height="220"
                                                 object-fit="contain" preview-disabled></n-image>
                                             <div class="gradient_overlay"></div>
                                             <div class="portrait_name">John Mearsheimer</div>
@@ -82,7 +82,7 @@ const scrollToBottom = async (frame) => {
                                 <n-popover placement="right" trigger="click" :show-arrow="false">
                                     <template #trigger>
                                         <div>
-                                            <n-image src="./PoliSciHub/home/Kenneth_Waltz.jpg" height="220"
+                                            <n-image src="./home/Kenneth_Waltz.jpg" height="220"
                                                 object-fit="contain" preview-disabled></n-image>
                                             <div class="gradient_overlay"></div>
                                             <div class="portrait_name">Kenneth Waltz</div>
@@ -110,7 +110,7 @@ const scrollToBottom = async (frame) => {
                                 <n-popover placement="left" trigger="click" :show-arrow="false">
                                     <template #trigger>
                                         <div>
-                                            <n-image src="./PoliSciHub/home/Niccolò_Machiavelli.jpg"
+                                            <n-image src="./home/Niccolò_Machiavelli.jpg"
                                                 object-fit="contain" height="220" preview-disabled></n-image>
                                             <div class="gradient_overlay"></div>
                                             <div class="portrait_name">Niccolò Machiavelli</div>
@@ -198,7 +198,7 @@ const scrollToBottom = async (frame) => {
                         </n-flex>
                     </n-gi>
                     <n-gi :span="8" style="text-align: center;">
-                        <n-image src="./PoliSciHub/home/activism4.jpg" width="360" preview-disabled></n-image>
+                        <n-image src="./home/activism4.jpg" width="360" preview-disabled></n-image>
                     </n-gi>
                 </n-grid>
             </n-flex>

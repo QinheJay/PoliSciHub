@@ -7,7 +7,7 @@ import router from '../../router/router';
         <n-layout-header class="header">
             <n-flex vertical :size="24">
                 <n-flex :align="'center'" class="logo" @click="router.push({ name: 'home' })">
-                    <n-avatar :width="24" src="./PoliSciHub/logo/logo_320.jpg"></n-avatar>
+                    <n-avatar :width="24" src="./logo/logo_320.jpg"></n-avatar>
                     <b>
                         Political
                         Science
