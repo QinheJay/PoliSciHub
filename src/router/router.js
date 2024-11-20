@@ -1,9 +1,9 @@
-import { createWebHistory, createRouter } from "vue-router";
+import { createWebHashHistory, createRouter } from "vue-router";
 import store from "../store/store";
 
 const routes = [
     {
-        path: "/PoliSciHub/",
+        path: "/",
         name: "landing",
         component: () => store.state.display.isMobile ? import('../components/Layout/mLayout.vue') : import('../components/Layout/layout.vue'),
         children: [
@@ -32,7 +32,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory("/PoliSciHub/"),
     routes,
 });
 
