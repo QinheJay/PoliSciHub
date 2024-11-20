@@ -11,75 +11,1110 @@
                             {
                                 "label": "PR EDEXCEL exam questions",
                                 "type": "pdf",
-                                "link": ""
+                                "link": "https://drive.google.com/file/d/1wjqsiyflLPZw-YBrrw7G6mV6k9Shx1oP/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Edexcel study guide",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1W9FmTgAEAt744OMVeR8hiRc4q3RoR00o/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Essay writing skills for EDEXCEL politics",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1MRzjPMjdqDQfl-csrjbLsUe5Q4ExymZB/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Exam types thinking about a politics EPQ",
-                                "type": "docx"
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1K96pCLeeay1tvRwVoz6Axm9LqPQYY3kC/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             },
                             {
                                 "label": "PR Examination skills an essential guide",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1LbSrjmLhOMgdXixmScBRTtM421AOSN-E/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Get exam ready",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1EsQGLQXx-RN2al1AmaY3Lnhmu87InbPi/view?usp=drive_link"
                             },
                             {
                                 "label": "PR How to answer a source question",
-                                "type": "docx"
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/16g7FH0GncSSjtjcUHAUtkMR_IFP-6ruU/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             },
                             {
                                 "label": "PR How to write an A star essay",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/15WJE_iAZzis_t7MJnX3u8E7XbA11dhmI/view?usp=drive_link"
                             },
                             {
                                 "label": "PR How to write top-mark answers",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/16sBED4ElwvKqDjkqPPGfKZectW8DNRSE/view?usp=drive_link"
                             },
                             {
                                 "label": "PR Studying politics are you making progress",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1mNtpLWhMYhQQ5gTLDxxK_kW5qy92JZgs/view?usp=drive_link"
                             },
                             {
                                 "label": "PR The EDEXCEL source question",
-                                "type": "pdf"
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1IT26mzHdt5AT7cYGrT_q60uRqbuFo6bI/view?usp=drive_link"
                             },
                             {
                                 "label": "PR UK politics _ political ideas Edexcel lockdown recovery checklist",
-                                "type": "docx"
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1_DGcStH5OoUj-URy-a44QVZ4OoaFbJjX/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "Extra",
-                "children": []
-            },
-            {
                 "label": "Unit 1 UK Politics",
-                "children": []
+                "children": [
+                    {
+                        "label": "Democracy Participation",
+                        "children": [
+                            {
+                                "label": "Democracy",
+                                "children": [
+                                    {
+                                        "label": "Democracy in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/16nSdfdE9lE3wPSz0mUXt2iP7LK3jSduo/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Civil Liberties in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1tKRXauKZHoKAHdrwy0rc6dbnD7txzsEY/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "UK Democracy PowerPoint",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1akGgnu1Tycg3t42v7YHTI6sJTM3YhxbE/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Individual vs Collective Rights",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1XgFNboTsX21ArNpKOhMZ1HyZBir-yWpL/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Is UK Democracy in Crisis?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1vPIokXuTjXpR4pY6JFi9xaROVLaO2bCu/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How Strong is UK Representative Democracy?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1G5Sis2OxULwqFsL72CXSA2xt-0Z0Xd2E/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Suffrage in the UK: debates and issues",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1uIgafXqEO8X_oC53SL-kP-VniFzDsqIq/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Assessing the health of the UK democracy",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1pqTLUqyLxT7YBRPRLJ-e9AzY5CRvIQv2/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Distinguishing individual and collective rights",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1JCFXuA2QmCuCL37A3Zvw9O8DvDF4fjJ5/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Has the nature of political participation changed?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Dp-LcXSioKi4sXVGoKvjIbCtn--Dw0CP/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Milestones in the extension of the franchise",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1SVjlUxvZXOUvVQgzcHHBCWd1Xflrv-mG/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Pressure Groups, Think Tanks, Lobbyists",
+                                "children": [
+                                    {
+                                        "label": "UK pressure groups and democracy",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/15_3a4Iobz-xdso-uWFntrgJ2k9t0KRAl/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Pressure Groups: do they have an impact on government policy?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1V_rf2J1A9yzFR9MOr3ihrMcahZ8xn3rI/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Direct Action",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1dpFbzvjDemQAsalUONAnqROQxTC-CubM/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The anti-fracking campaign",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/17FSt04Yz1_NOkEnRlrCxKcgQWIb1nSKW/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "How to run a political campaign",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1nuyR87TWakHJNWX0ZDI5m5u4rGAgECgY/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Why do pressure groups fail",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1OTJbk0UXeBYsldMvA8iVeET_SZZC8uga/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Do pressure groups strengthen pluralist democracy?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1zJQ7OibrabLb7i_7MzoI6SZznmGauO9E/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Extinction rebellion",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1vWvou2BFk-LCO2591arxVPPu9xL0ardu/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "UK Think Tanks",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1CVrtwX0yr3le4y2xYgCLJaiqgL4DGdmS/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Do British trade unions have any real power",
+                                        "type": "pdf",
+                                        "link": "https://docs.google.com/document/d/1ZgfA9XvJKF5QQhOK3WMkPY2k_b56ZQor/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Owen Paterson and the lobbying scandal",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1AWxOASncPJuHgGOIIGUhw2kxVUoa68v7/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Does the influence of pressure groups enhance democracy in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1mibIbrF2BOi5ZJIvdcJx5xJtc9EsmomC/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Rashford and the free school meals campaign",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1c6PqMZAiFuRKCICfhoX_YJcm50q5tAzl/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Pressure groups: revision exercises",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1nYJk8CmIUTkjX5lXkGSmoSFLB944aE6n/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Political Parties",
+                        "children": [
+                            {
+                                "label": "Conservatives",
+                                "children": [
+                                    {
+                                        "label": "Conservative Party Quiz",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1JmZcEH-Z6tp2gMPpMoKAhcgLNngJWgLn/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "The Conservative Party: History",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/10MYy_8U_f_5TGKnf_79ObSlemAR_FF44/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Evaluate the view that the Conservative Party is internally divided",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/13Zq-mBQUqglMgNJZ_d8VH9yljLElucms/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Revival of the Scottish Tories",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1B6t42-X-QpsZTvVs-7AiUBudXC_FUtmY/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Labour",
+                                "children": [
+                                    {
+                                        "label": "Labour Party Factions",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1awarUl5iTEZdQuijlUoVeAT5nWwH7YLa/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How socialist is the Labour Party",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ruk7N2mOJUr9rt_-NGFIqgYZ-FcpuLMu/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Jeremy Corbyn's first 100 days",
+                                        "type": "docx",
+                                        "link": "https://drive.google.com/file/d/11ftT1jnRP55O0TIHNuYX5q76CkFF83GV/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "What does the future hold for the Labour Party",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1PZ6qolxd9BnEYpoJYE2Zcb_dZZeH1JUX/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Is Labour a social democratic party",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1ksC2I_vQ8i_J1sgF2CBzBsGyNZ5oZlmV/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Corbynism: the strange rebirth of UK socialism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1p4yng4oBk_tQrCDnjnZDTkrRVV3MAt1N/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "What does Keir Starmer stand for",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1AzqLy3qzqz0iX41J7ZULi5FOc6Q_4twh/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Politics Shed- Labour Party",
+                                        "type": "pdf",
+                                        "link": "https://sites.google.com/site/thepoliticsteacherorg/the-labour-party"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Liberal Democrats",
+                                "children": [
+                                    {
+                                        "label": "The return of the Lib Dems?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1yDm4hzS2r_X0PkM2-Nhna0jUy9FvqOQA/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Minor Parties",
+                                "children": [
+                                    {
+                                        "label": "The Ideas and Policies of the SNP",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1eqyUxCY2trkX3XYqN7Ne-ZDOfvgbGe0t/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Ideas and Policies of the DUP",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1B_kCbMm9BeoBcEnZbQoXgpZ7gp4bC4uz/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Have the minor parties reshaped UK politics?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1AhcOLPIw58nMiMEMOIntXaKiaKcaztc6/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "What's the point of a Women's Equality Party?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1U8L9ySq2CSBfKd1Z5NCaPVFCSdRhm7fv/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Other",
+                                "children": [
+                                    {
+                                        "label": "The UK Party System- Is it changing?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1u2hEHLS7I1A5EaAvqwSUNlKklEggqAvv/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "UK party politics- the return of the left/right divide?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/10HaGpGGHytB_iDArt85FNKlLX7VSOkNF/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Party factions in the UK",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1h9vkiNVnG9-cx3KqslyP_dHOfgjp3uxu/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Party conferences- what is the point?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1QcH7OwVSJurkGOQxTOUKPF3YY0vE0ioZ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Party Funding",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1A5BwXcFb5FktkJ7BdSiSS6fqmkob2nij/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Electing (and ejecting) party leaders",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/17Dpot-6pk0Ialt0mR3WI4rVIgaJnLTUS/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How to answer questions on electing party leaders",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1e63ZH0NEj1Vw5kUm2gJtpov9P9MgN-fs/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Electoral Systems",
+                        "children": [
+                            {
+                                "label": "Referendums since 1997 how and why have they been used",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1jmj6M56tI2xXF1I5rFLfvqnEbwkOXICA/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Should the voting age be reduced to 16?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1cHzisDrEZRrifQpsOC1fVQX6lsrYXCAz/view?usp=drive_link"
+                            },
+                            {
+                                "label": "FPTP: not fit for purpose?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1n4PcX7AdLvJUJdF29-AZcJNbRdosO-TH/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Alternatives to FPTP",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1GJ0hKFLHjGTCDNdLYrH0NvGtF7J6iNpP/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Should the UK increase its use of referendums?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1Tlp1s8q1pMbM9bVTc5OG3eYt5vmgxrTw/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Assessing the UK's FPTP",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1YqJO1EqHazoGX7da5v63dHj7FLk_zgb8/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Are referendums the best form of democracy?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/18Wy-eRx74jDbzaHlFv1HbE1t_q-OpGC7/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Can UKIP win seats under FPTP?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1MpC0q9b9IY1Ym4NalVon2WbBkoeXlH9F/view?usp=drive_link"
+                            },
+                            {
+                                "label": "What are the differences between general elections and by-elections",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1iSWkUBREamVVMoTKhwGp6q-cwnxXftwT/view?usp=drive_link"
+                            },
+                            {
+                                "label": "UK electoral systems",
+                                "type": "pptx",
+                                "link": "https://docs.google.com/presentation/d/1te48Z1buB0OxCAMe7ZZ8Qn05tk_nMni4/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Voting Behaviour and the Media",
+                        "children": [
+                            {
+                                "label": "Voting Behaviour: How do voters decide in elections?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/13j_fLny2uMvIExKFZ7zVSUcnsdcnlFrg/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Social Media: Enhancing or threatening democracy?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/16dZ72UOwLQdkxoNoR3Hv1v5p99X3QpB6/view?usp=drive_link"
+                            },
+                            {
+                                "label": "UK Politics Post-Brexit Britain",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1o4fjKDzkVUW0F3wSkqla5ija0TNNU1S2/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "The media and voting behaviour",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1npOGOLsigjyvHOOmquElJG9EvTSBowlf/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Social Media UK Politics",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1BQ4PBKssycE_TZB0vxe36_RwLHKD4urM/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Age and voting behaviour",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1OjYPN-xjaia4tCWpeg95uSlhkR_paOee/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "What can we learn about voting behaviour from the 2019 general election?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/178tvG9vSCHq7R8gPkbDE8NSLr9OOkM9o/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Voting Behaviour",
+                                "type": "pptx",
+                                "link": "https://docs.google.com/presentation/d/1FvPbcaR7ZUczPmhGlRdkCBXF5U0jExgm/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Essay on the role of the media in voting behaviour",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1bwDNi8N8zZ8A18gGKaTBwVlZMimG7GYO/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The influence of the media in UK politics",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1zWLsKAkYLaopE5e4mZ8KpzNWXIR5KotO/view?usp=drive_link"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "General Election Case Studies",
+                        "children": [
+                            {
+                                "label": "1979 Elections",
+                                "children": [
+                                    {
+                                        "label": "1979",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1Pp5TWCorzeBvGQvC0BTw0xht7FOHkVEk?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "1997 Elections",
+                                "children": [
+                                    {
+                                        "label": "1997",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/16YfqFF6Og40uAfXKTWhcwsRMP6rpwyDq?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "2010 Elections",
+                                "children": [
+                                    {
+                                        "label": "2010",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1DdF--2Brh6FdwcpcZsIV2yKU0kZdnleV?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "2015 Elections",
+                                "children": [
+                                    {
+                                        "label": "2015",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1kqhwLZxcxmETaHYyMqV7OYvBpLJjSNbw?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "2017 Elections",
+                                "children": [
+                                    {
+                                        "label": "2017",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1QGX3MpGfAXf8J7tasvC3sbcaFbqFlZCw?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "2019 Elections",
+                                "children": [
+                                    {
+                                        "label": "2019",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1wbyD8Beyjfwnuc8D15-oVXeUio_LqbxR?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Other Elections",
+                                "children": [
+                                    {
+                                        "label": "Extra",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1lgjDPx9wcdJZXvjElrpslmQXg6A9kIBy?usp=drive_link"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "label": "Unit 2 UK Government",
-                "children": []
+                "children": [
+                    {
+                        "label": "Constitution",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": [
+                                    {
+                                        "label": "The UK Constitution: key historical documents",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1reewA20VeAyIPlyy4C5piBKgt2NDCGDw/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Human Rights Act: why is it difficult to reform?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1tdzmm9XSladuN0m0-jVmhjphxRy-bBih/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Constitutional developments in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ua1gbR8lsY4gdyFtNj0l21G52OQ1zECG/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Reform",
+                                "children": [
+                                    {
+                                        "label": "The UK constitution: How successful have recent reforms been?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1wvdfCFMbrbRoZK58j9-_7jZinJDnIHYx/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "UK constitutional reform since 1997",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1EuL_ZJxBnQVMzGSPsyyF69JG0CZ8QyGg/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Has post-2010 constitutional reform failed?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1hZFroDic-eJOrOCeF2ws_vMg8pXFnRj6/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Essay question: 'Evaluate the view that the UK should introduce a condified constitution'",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1fyTI1_CjC2xXVkguhmlkr5R70p7HKidB/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Does the UK need a codified constitution?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14T1-EH3IhJx6VVWdQytmvRdJT8aWR30k/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Is the UK's constitution working?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ENpp3mCsZ3oFvO-gqzyyqY2mp0ZcCbDI/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Devolution",
+                                "children": [
+                                    {
+                                        "label": "Devolution in Wales: an insiders guide to devolved powers",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1VFlhPc_oYeU9u4omcGHRH7ZWStDomLJk/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Devolution in the UK: Has it been a success?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/11DLH--5b6G_FbHgPlZexfRjJ0NQ3WJrO/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Metro Mayors: A significant step in decentralising power?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1xPgCvObBEE-48m-pfFN4mtHNNBv26rUa/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Should there be further devolution?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1XJyD4wC1_cciCyCwEUxo634NOPOLy8oB/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The role and power of the Scottish parliament",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1G3JGp2JMiV805MVALvoNL2KAkLJApoUv/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Devolution worksheet",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1c6Mm6EEG4ECNEdM2iXlsy511MUUGzAHE/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Comparison",
+                                "children": [
+                                    {
+                                        "label": "Comparing constitutions",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1zv1wB50VkSF9OCQoOajAUNpzf2XPRvty/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Federalism and devolution in the USA and the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1PDAaZz94nyX-9jzGqYQu8HJsCOmdNQDA/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Comparing the US and UK Constitutions",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1kqyjyiF2wAbX-UtNUtf3A7YZV6Nc4Eh0/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Is the UK moving towards a federal system?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1yFMAGbcEIilRNalZAia9Cd_LUCgdlKY6/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Parliament",
+                        "children": [
+                            {
+                                "label": "Overall",
+                                "children": [
+                                    {
+                                        "label": "Parliament as a check on executive power",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14nRJ5jCeZOQjfYvgGBtU6Xlf1JHKuqFV/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliamentary sovereignty and Article 50",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1oCJ373_gYDHTqNDawoRT1RXnL2U6LadB/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "How effective is Parliament?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1sOEW_M0PPfyHziwy2vFIlSWW6XhJ13Io/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Parliament: Does the opposition matter?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1pIF62vc9SV5dKJe0jofItlqL5mEPxL6S/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The role of the House of Commons and the House of Lords",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14ygaIgi5h3kNBBSlfqvmrw0vd3vC9L18/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliamentary privilege",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/11y3qFd3VGixMTPJYv9hfki-yxiIvzInq/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Has Brexit empowered Parliament?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1YiOp8Au-EJloubQIXOfZPfpG_fMHeTLK/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliament: a guide to its traditions",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1SaHExr2dRw1C_4mcA3LCn4e7t44T7nH2/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "The prorogation of Parliament",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1SkcdZI6VcZ4VxFt9Low53VC9DGFvy0sl/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How effective has parliamentary scrutiny been during the COVID-19 crisis",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1VndPTWXB4zsmfrJWtuHfrOb0iMOQWUDR/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Devolution and the future of England",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1YcPeeqON4UJW9jHoZKSiyijf81PvGFh0/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Parliament and government in the UK",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Umd_YGlDt3kqsie26Te21peiZ7oNhitb/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Committees",
+                                "children": [
+                                    {
+                                        "label": "Select Committees",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1YWeAaEyV5wWBqw1kYWcC9PvtQ3hh5hZL/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Liaison Committee",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1AjpRVo3XXEDJ9T3xxrIAqLjMcNtQRg93/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The role of select committee",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1hhXv6n8v5OSALHQxm8BoS3o4Yu4DcZqH/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "House of Commons",
+                                "children": [
+                                    {
+                                        "label": "Parliament: How effective are backbench MPs?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1tUgMSOZnhFBb1IFbic9JqXDPuQDZMJiJ/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Should there be English votes for English laws?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1wUe8mIzNekRL-SIvVi1bhQ7ZAUp70qzS/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The House of Commons: Does the opposition still matter?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1NsNFRlnEeGeK0BB886P-WHboo5UtmXmJ/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The election of the new speaker",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1aDO7baJmv3V1eDNDl-N79MobR3FlruKe/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How representative is the House of Commons",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1QfikEgUXWaYtD0m--3j5QrunzKrWUn2o/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Fixed-Term Parliaments Act 2011",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14OSDesJRYKTWNfZjDBJBvAzLl49OT7LD/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "House of Lords",
+                                "children": [
+                                    {
+                                        "label": "The House of Lords today",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1NTUvqeyh4fYWEcbj_-H1f_P24dc-Z_73/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Government defeat in the Lords",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1UfNztVR9lDTvwuU67WjlWTgSQ9x679kP/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The composition of the House of Lords",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1y75PHjHCWURUWMzfhuA9stg8lCCQzMgS/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The House of Lords: Why hasn't it been reformed",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ALk25ZCtL3jaSGmIFZ5nEwGWtqcuQr1H/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Is it time for an elected second chamber?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ckB9D9Bw-qkMdzFFku1rra8hcWpYyAPQ/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The work of the House of Lords",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1ukRNLyuO6_GKbVwrRjdSuNOW5womTthD/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Prime Minister and the Executive",
+                        "children": [
+                            {
+                                "label": "Prime Ministerial Power",
+                                "children": [
+                                    {
+                                        "label": "Prime-ministerial power",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/11xRnwch6PtZw1TCPMC5Z7JKii0uCAlTb/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Prime ministerial: Is it in decline?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1nsLOzlrPvvMKVx3bJHyfg-5rOHzijJsu/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "What determines the prime minister's power?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1UBpJf0kURtOfc7dZw6XGsM48Q-Mu2bd7/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "What determines the prime minister's power: exam type questions and answers",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1gbGsNgOJqxMD-txN_vg3S8WokNqVUQa9/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The prime minister and cabinet",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/15szUWk87G9pAak2CrO7dc3FU1GF-4nBp/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "British prime ministers: Power and success",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1rdDGTPd-EKRZpE_6Qqf8QRD6eQKCPZCZ/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "40 years of prime ministerial power 1979-2019",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1vEpOT9-G_3mr1bb559MnXqCZix4xXb9l/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Cabinet and the Civil Service",
+                                "children": [
+                                    {
+                                        "label": "The cabinet: Is there still collective cabinet responsibility?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1U20I4-HCK1JTAfbFAU0AYhvmedifdIPG/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Cabinet resignations",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1if5SI0xg_tNpkn5hCfGXHy_jeMiCYg9N/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The civil service quiz",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1F85f6rTF3Kgx5hPReWbHfqSHxLbfXxbr/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Cabinet committees",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1cFB9Q__75XmH-Pm4897V1IC2WOczXMQ7/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "The workings of the UK executive",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1_mRfCk2h11A4SvuJKjT4b2ikTQjoJY9v/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Poster: ministerial resignations",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1MymjDwa7KUiVmEztSV_w_IWX-i_jnrTn/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Ministerial resignations",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1s4aFQk_ws208d9iJgOqe8TRghlp9p9IN/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The Prime Minister: Theories and myths of executive power",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1KWVql2yXtu0tx2p6OBNcx3ACwVbfVBr3/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Info on Past Prime Minister",
+                                "children": [
+                                    {
+                                        "label": "David Cameron",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/142Ax4GrCoStSnP-_9h3N7Di8yEkZDAIZ?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Theresa May",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1NKh47xDXN6avPZWQ0_b3LiwPcP7-5OSQ?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Boris Johnson",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1AYQ8t3kEhtjnHOm30LaKVu2w8Vgts2xe?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Liz Truss",
+                                        "type": "Google Drive",
+                                        "link": "https://drive.google.com/drive/folders/1iTDX2RigHU7z-k5XSOMGEvpbkTgrJ71t?usp=drive_link"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Relations Between Institutions",
+                        "children": [
+                            {
+                                "label": "The UK Supreme Court",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1VeE3O8Q4PR_aFBNd5IFNgwgRzwy1WWq0/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The UK Supreme Court: an overview",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1XTcJ4lRB9Mu-f0VWRp8xtpVk0rZS1sxZ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "The UK Supreme Court: Too much power for an unelected body?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/16DjFxnzbfkPF1BlGkK9Z5i2EspeDU0O1/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The UK Supreme Court: key cases",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/19cDdacCyhtqR4-_OzZaUC_jpL4bgqJMv/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Ten years of the UK Supreme Court",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1ISFLb_TXEUL-HKYbfy9nhgoQqL9z9okU/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Judicial review",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1t4CtGTwCqIBcOD2otKNk-8kVzXUBOsoG/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Who should make laws judges or elected representatives?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1SgJNh3HMpTTC5ilwNzDeLZF4xA5NO69c/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Is the UK Judiciary too powerful?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1FiTwNsvFgXUr7-KKjE4rmdN4MZo4FQr7/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Legal defeat for government on Brexit",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1dxVMvtYrc-B1Ice1vuQfKPuwrJQll8aH/view?usp=drive_link"
+                            },
+                            {
+                                "label": "UK and US Judiciaries compared",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1sGZPoqhlviFM7RkePVzvugEnBuRcxXic/view?usp=drive_link"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "label": "Unit 3 Core - Non-Core Political Ideas",
-                "children": []
+                "label": "Unit 3 Political Ideas",
+                "children": [
+                    {
+                        "label": "Liberalism",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Conservatism",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Socialism",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Anarchism",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Feminism",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "label": "Unit 4 Comparative Global Politics",
-                "children": []
+                "children": [
+                    {
+                        "label": "Theories of Global Politics",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "The State and Globalisation",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Political and Economic Global Governance",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Human Rights and Environment Global Governance",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Power Developments",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Regionalism and the EU",
+                        "children": [
+                            {
+                                "label": "General",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -87,44 +1122,350 @@
         "label": "AP US Government",
         "children": [
             {
-                "label": "Unit 4 Comparative Global Politics",
+                "label": "Powerpoint Slides",
                 "children": [
                     {
-                        "label": "General",
-                        "children": [
-                            {
-                                "label": "PR EDEXCEL exam questions",
-                                "type": "pdf",
-                                "link": ""
-                            }
-                        ]
+                        "label": "USGOV Unit 1 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1uwZwOgyPbOA_mdopraM-qR3UcAUwT19J/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 2 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1SzZH_FWEqRaqSKOKYl6QTr_PWGtVZcy8/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 3 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1KkAhTR6QNGJz480AbRbLPFrEHG7zmFq6/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 4 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/17ClToXVnXvlchc2GHyDoWwKEpeWTj26B/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 5 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1lkzAB63_1nysNGUGwpnJvM5u2YLPiXen/view?usp=drive_link"
                     }
                 ]
             },
             {
-                "label": "Unit 4 Comparative Global ",
-                "children": []
+                "label": "General Resources",
+                "children": [
+                    {
+                        "label": "Required Documents USGOV",
+                        "type": "docx",
+                        "link": "https://docs.google.com/document/d/1cuRFESDW9PZzddquR8obsaYQdqkrg1VJ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "APGOV Study Guide",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1gXTHqmIpaO-xsir9FqiZh73xdxjDAFWW/view?usp=drive_link"
+                    }
+                ]
             },
             {
-                "label": "Unit 4 Comparative",
-                "children": []
+                "label": "Practice Questions",
+                "children": [
+                    {
+                        "label": "Baron 1",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1cUJgVchmW0ca-ytrbPQa91VYgaY8lhsx/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Baron 2",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1r5LLXKfUhyFE0UAspl0kqPdKayKOOnyC/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Princeton 1",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1DCQKYUqRoA-saYuPjeBs8wzq29xvcjd1/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Princeton 2",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/192vYv4ciyHRdo3OYvlVx42QRJVbGOstV/view?usp=drive_link"
+                    }
+                ]
             }
         ]
     },
     {
         "label": "Future World Order",
-        "children": []
+        "children": [
+            {
+                "label": "What is Global Order",
+                "children": [
+                    {
+                        "label": "PPT What is Global Order",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1q_ReIv3ccfG5R6FVoRp8PCxT3qKLJm53/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Reading 1- de Buck",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1OgvhQ652k_JRQibqtG8vrUomEbmWBYrH/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 2- Slaughter",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1fnTl_tLbV-N9551AciLuGmOdod4EM4S5/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 3- Jones",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1Pk2_daJWV3QJMmCbenAYJ9hAOXxdofVC/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "How Did Global Order Come About",
+                "children": [
+                    {
+                        "label": "PPT How Did Global Order Come About",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1Npxo-x024SM-DPwlFcxtQSknbJeQEuMo/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Reading 1- Lawson",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/10cBpitoHJHa7uwazATDZahxVmWVvGGua/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 2- Barkawi",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1p4mjx1Se_wxc2nvz7A0tiG2gHPNDr9X5/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 3- Ringmar",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1dk_2dVcCsSvhPA-UhEzITGD6xCkhm2C5/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "How Does Global Order Change",
+                "children": [
+                    {
+                        "label": "PPT How Does Global Order Change",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1StvjyvCJaXd0oblQNZjnUMDDSkH40aTO/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "PPT Future IR PPT",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1MirwXotBUbmwHx_DjfXqRvjx68qU2_dl/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Reading 1- Gilpin",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1u0qqQVLG7pmaBNIgIPfoC0SlC3b0PY__/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 2- Miskimmon and O'Loughlin",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1MBrnNowCYipBW_3WFUFxvoDiIkHvUbGh/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "Globalization and Liberal International Order",
+                "children": [
+                    {
+                        "label": "PPT Globalization and LIO",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1CC-QGWKavghCAzxHnl6Pbry7rgF749RD/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "PPT Liberalism and Idealism",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1srwL66axzboxFm4aBaIvpzCPNhKquBpY/edit#slide=id.p1"
+                    },
+                    {
+                        "label": "PPT Globalization",
+                        "type": "pptx",
+                        "link": "https://docs.google.com/presentation/d/1yJZxeyELKr2gQO9dKhqBl5hYrqxlJrfJ/edit#slide=id.p1"
+                    },
+                    {
+                        "label": "Reading 1- Ikenberry",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1bQBEy9wZdpPQgno4vj12tfocq2dE1wjX/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Reading 2- Kundnani",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1pY9BRQfQBgJLU5kKs_ruQKG9oRoiJTa_/view?usp=drive_link"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Political Ideologies",
+        "children": [
+            {
+                "label": "Political Ideologies Unit for AL Politics",
+                "type": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/1pRxwyepe7YH1oUquAfLLBGPLbqFivXvL?usp=drive_link"
+            }
+        ]
     },
     {
         "label": "Global Politics",
-        "children": []
+        "children": [
+            {
+                "label": "Global Politics Unit for AL Politics",
+                "type": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/1Rzvi5rYt97sN-qnfEN8ttal3UQD0jhRa?usp=drive_link"
+            }
+        ]
     },
     {
-        "label": "Politics Ideologies",
-        "children": []
+        "label": "Studying Poli Sci on Your Own",
+        "children": [
+            {
+                "label": "Textbooks for Self-Study",
+                "children": [
+                    {
+                        "label": "McGlinchey et al- International Relations Theory",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/15dFFs4ElXHCuAQWzVnli8ZMr9unTlK_R/view?usp=sharing"
+                    },
+                    {
+                        "label": "Miller- Political Philosphy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1IfMk1gsI7k1EjfouexNm2-IKFEv4_4sI/view?usp=sharing"
+                    },
+                    {
+                        "label": "Kymlicka- Contemporary Political Philosophy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1fUJph8Q_EPTlI_7InzAfXTb9eW-dlaym/view?usp=sharing"
+                    },
+                    {
+                        "label": "Drezner- Theories of International Politics and Zombies",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/13qvuqZQz-oJbwPIGbe2f_hmF1PvLNwZk/view?usp=sharing"
+                    },
+                    {
+                        "label": "Kegley and Raymond- The Global Future A Brief Introduction to World Politics",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1nW87CfwVR4pSHu5Wk-0_ST4i_AyGOLaz/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Wolff- An Introduction to Political Philosophy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/127TC2CRgx4cOBZp-gWMtBAFqxCsFox1v/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Garner et al- Introduction to Politics (Second Canadian Edition)",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1GcMagOETbO8PkJdd0sF1go-XLSmWb_t3/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Carlsnaes et al- Handbook of International Relations",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1Du3p0ULFUVk9-I2PvdfRK23eqHS17E7R/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "Reading Lists",
+                "children": [
+                    {
+                        "label": "International Relations Recommended Readings",
+                        "type": "xlsx",
+                        "link": "https://docs.google.com/spreadsheets/d/1_nLwlOogScQAzFjaJNdD7lhzBSIl_FPp/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Philosophy Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/15JOLo-fqCOKxRWFbRTtknAD4OrxhaykL/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Comparative Politics Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1PyTCTn_cG4lL5lG8-yTtV3kyvIEOeEeI/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Political Theory Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1FBnMQtzinMVhpYmj6y-51oXjX-SpT-ar/view?usp=drive_link"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "label": "TPC Resources",
-        "children": []
+        "label": "Academic Writing Resources",
+        "children": [
+            {
+                "label": "Intro to Academic Essay Writing Guide (Chinese)",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/13bzY81BCm-GFOrX2YlvTF3fist4pWTlo/view?usp=drive_link"
+            },
+            {
+                "label": "Avioding 'This Essay Will'",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1iqCsFqOuV4Qe_jzOyjPrmipHcpPYMb2I/view?usp=drive_link"
+            },
+            {
+                "label": "Annotated Bibliography",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1dlWS0S9xTtpu7MH_cS-GJK0NNr-M6s-W/view?usp=drive_link"
+            },
+            {
+                "label": "Literature Review",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1ReOQZrA43FV0HZqqYBtsMjAUU4SjUuI9/view?usp=drive_link"
+            },
+            {
+                "label": "General Writing Tips (Argumentative Essays)",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1JeMCT3ZNMuX5pblslnG4P5ClMacnPpx1/view?usp=drive_link"
+            },
+            {
+                "label": "How To Use Scientific Vocab in Your Essay",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1vE6r-eCtuXBewT77E37auxiQxjEAwxV1/view?usp=drive_link"
+            },
+            {
+                "label": "How to Structure a Paragraph",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1P-TG4xBfudiHkXDSUVyN7IGgI-cBLry-/view?usp=drive_link"
+            },
+            {
+                "label": "Making Your Quotes Work for You",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1veCPkqprO0wN3x5A6cMNd3VsK0n9ndkE/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "label": "Theoretical Politics Club",
+        "children": [
+            {
+                "label": "Introduction to the ECA",
+                "type": "docx",
+                "link": "https://docs.google.com/document/d/1KF5J3-xuGpkomkD_Si8F0hP-I5uACXVL/edit?usp=sharing&ouid=105541633004952955981&rtpof=true&sd=true"
+            },
+            {
+                "label": "Syllabus SCIE TPC 2024 Fall-Winter",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1pZc5t39lAqLFQ9Msg58-0zLSN0v_yDsp/view?usp=drive_link"
+            },
+            {
+                "label": "Google Drive Instructions TPC",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1No4N-6F-79_BYC-1uxt4CVKTaPs0MvJ3/view?usp=drive_link"
+            },
+            {
+                "label": "ECA Materials",
+                "type": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/1henGDqKVyTwyfs5ogB3kbtS1KOMmaoav?usp=drive_link"
+            }
+        ]
     }
 ]
