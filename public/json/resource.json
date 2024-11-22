@@ -1,5 +1,200 @@
 [
     {
+        "label": "Studying Poli Sci on Your Own",
+        "children": [
+            {
+                "label": "Textbooks for Self-Study",
+                "children": [
+                    {
+                        "label": "McGlinchey et al- International Relations Theory",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/15dFFs4ElXHCuAQWzVnli8ZMr9unTlK_R/view?usp=sharing"
+                    },
+                    {
+                        "label": "Miller- Political Philosphy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1IfMk1gsI7k1EjfouexNm2-IKFEv4_4sI/view?usp=sharing"
+                    },
+                    {
+                        "label": "Kymlicka- Contemporary Political Philosophy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1fUJph8Q_EPTlI_7InzAfXTb9eW-dlaym/view?usp=sharing"
+                    },
+                    {
+                        "label": "Drezner- Theories of International Politics and Zombies",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/13qvuqZQz-oJbwPIGbe2f_hmF1PvLNwZk/view?usp=sharing"
+                    },
+                    {
+                        "label": "Kegley and Raymond- The Global Future A Brief Introduction to World Politics",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1nW87CfwVR4pSHu5Wk-0_ST4i_AyGOLaz/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Wolff- An Introduction to Political Philosophy",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/127TC2CRgx4cOBZp-gWMtBAFqxCsFox1v/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Garner et al- Introduction to Politics (Second Canadian Edition)",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1GcMagOETbO8PkJdd0sF1go-XLSmWb_t3/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Carlsnaes et al- Handbook of International Relations",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1Du3p0ULFUVk9-I2PvdfRK23eqHS17E7R/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "Reading Lists",
+                "children": [
+                    {
+                        "label": "International Relations Recommended Readings",
+                        "type": "xlsx",
+                        "link": "https://docs.google.com/spreadsheets/d/1_nLwlOogScQAzFjaJNdD7lhzBSIl_FPp/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "Philosophy Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/15JOLo-fqCOKxRWFbRTtknAD4OrxhaykL/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Comparative Politics Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1PyTCTn_cG4lL5lG8-yTtV3kyvIEOeEeI/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Political Theory Reading List",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1FBnMQtzinMVhpYmj6y-51oXjX-SpT-ar/view?usp=drive_link"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Academic Writing Resources",
+        "children": [
+            {
+                "label": "Intro to Academic Essay Writing Guide (Chinese)",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/13bzY81BCm-GFOrX2YlvTF3fist4pWTlo/view?usp=drive_link"
+            },
+            {
+                "label": "Avioding 'This Essay Will'",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1iqCsFqOuV4Qe_jzOyjPrmipHcpPYMb2I/view?usp=drive_link"
+            },
+            {
+                "label": "Annotated Bibliography",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1dlWS0S9xTtpu7MH_cS-GJK0NNr-M6s-W/view?usp=drive_link"
+            },
+            {
+                "label": "Literature Review",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1ReOQZrA43FV0HZqqYBtsMjAUU4SjUuI9/view?usp=drive_link"
+            },
+            {
+                "label": "General Writing Tips (Argumentative Essays)",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1JeMCT3ZNMuX5pblslnG4P5ClMacnPpx1/view?usp=drive_link"
+            },
+            {
+                "label": "How To Use Scientific Vocab in Your Essay",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1vE6r-eCtuXBewT77E37auxiQxjEAwxV1/view?usp=drive_link"
+            },
+            {
+                "label": "How to Structure a Paragraph",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1P-TG4xBfudiHkXDSUVyN7IGgI-cBLry-/view?usp=drive_link"
+            },
+            {
+                "label": "Making Your Quotes Work for You",
+                "type": "pdf",
+                "link": "https://drive.google.com/file/d/1veCPkqprO0wN3x5A6cMNd3VsK0n9ndkE/view?usp=drive_link"
+            }
+        ]
+    },
+    {
+        "label": "AP US Government",
+        "children": [
+            {
+                "label": "Powerpoint Slides",
+                "children": [
+                    {
+                        "label": "USGOV Unit 1 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1uwZwOgyPbOA_mdopraM-qR3UcAUwT19J/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 2 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1SzZH_FWEqRaqSKOKYl6QTr_PWGtVZcy8/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 3 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1KkAhTR6QNGJz480AbRbLPFrEHG7zmFq6/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 4 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/17ClToXVnXvlchc2GHyDoWwKEpeWTj26B/view?usp=drive_link"
+                    },
+                    {
+                        "label": "USGOV Unit 5 Sides",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1lkzAB63_1nysNGUGwpnJvM5u2YLPiXen/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "General Resources",
+                "children": [
+                    {
+                        "label": "Required Documents USGOV",
+                        "type": "docx",
+                        "link": "https://docs.google.com/document/d/1cuRFESDW9PZzddquR8obsaYQdqkrg1VJ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                    },
+                    {
+                        "label": "APGOV Study Guide",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1gXTHqmIpaO-xsir9FqiZh73xdxjDAFWW/view?usp=drive_link"
+                    }
+                ]
+            },
+            {
+                "label": "Practice Questions",
+                "children": [
+                    {
+                        "label": "Baron 1",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1cUJgVchmW0ca-ytrbPQa91VYgaY8lhsx/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Baron 2",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1r5LLXKfUhyFE0UAspl0kqPdKayKOOnyC/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Princeton 1",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/1DCQKYUqRoA-saYuPjeBs8wzq29xvcjd1/view?usp=drive_link"
+                    },
+                    {
+                        "label": "Princeton 2",
+                        "type": "pdf",
+                        "link": "https://drive.google.com/file/d/192vYv4ciyHRdo3OYvlVx42QRJVbGOstV/view?usp=drive_link"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "label": "Alevel Politics",
         "children": [
             {
@@ -1480,81 +1675,6 @@
         ]
     },
     {
-        "label": "AP US Government",
-        "children": [
-            {
-                "label": "Powerpoint Slides",
-                "children": [
-                    {
-                        "label": "USGOV Unit 1 Sides",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1uwZwOgyPbOA_mdopraM-qR3UcAUwT19J/view?usp=drive_link"
-                    },
-                    {
-                        "label": "USGOV Unit 2 Sides",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1SzZH_FWEqRaqSKOKYl6QTr_PWGtVZcy8/view?usp=drive_link"
-                    },
-                    {
-                        "label": "USGOV Unit 3 Sides",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1KkAhTR6QNGJz480AbRbLPFrEHG7zmFq6/view?usp=drive_link"
-                    },
-                    {
-                        "label": "USGOV Unit 4 Sides",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/17ClToXVnXvlchc2GHyDoWwKEpeWTj26B/view?usp=drive_link"
-                    },
-                    {
-                        "label": "USGOV Unit 5 Sides",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1lkzAB63_1nysNGUGwpnJvM5u2YLPiXen/view?usp=drive_link"
-                    }
-                ]
-            },
-            {
-                "label": "General Resources",
-                "children": [
-                    {
-                        "label": "Required Documents USGOV",
-                        "type": "docx",
-                        "link": "https://docs.google.com/document/d/1cuRFESDW9PZzddquR8obsaYQdqkrg1VJ/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
-                    },
-                    {
-                        "label": "APGOV Study Guide",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1gXTHqmIpaO-xsir9FqiZh73xdxjDAFWW/view?usp=drive_link"
-                    }
-                ]
-            },
-            {
-                "label": "Practice Questions",
-                "children": [
-                    {
-                        "label": "Baron 1",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1cUJgVchmW0ca-ytrbPQa91VYgaY8lhsx/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Baron 2",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1r5LLXKfUhyFE0UAspl0kqPdKayKOOnyC/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Princeton 1",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1DCQKYUqRoA-saYuPjeBs8wzq29xvcjd1/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Princeton 2",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/192vYv4ciyHRdo3OYvlVx42QRJVbGOstV/view?usp=drive_link"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "label": "Future World Order",
         "children": [
             {
@@ -1681,126 +1801,6 @@
                 "label": "Global Politics Unit for AL Politics",
                 "type": "Google Drive",
                 "link": "https://drive.google.com/drive/folders/1Rzvi5rYt97sN-qnfEN8ttal3UQD0jhRa?usp=drive_link"
-            }
-        ]
-    },
-    {
-        "label": "Studying Poli Sci on Your Own",
-        "children": [
-            {
-                "label": "Textbooks for Self-Study",
-                "children": [
-                    {
-                        "label": "McGlinchey et al- International Relations Theory",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/15dFFs4ElXHCuAQWzVnli8ZMr9unTlK_R/view?usp=sharing"
-                    },
-                    {
-                        "label": "Miller- Political Philosphy",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1IfMk1gsI7k1EjfouexNm2-IKFEv4_4sI/view?usp=sharing"
-                    },
-                    {
-                        "label": "Kymlicka- Contemporary Political Philosophy",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1fUJph8Q_EPTlI_7InzAfXTb9eW-dlaym/view?usp=sharing"
-                    },
-                    {
-                        "label": "Drezner- Theories of International Politics and Zombies",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/13qvuqZQz-oJbwPIGbe2f_hmF1PvLNwZk/view?usp=sharing"
-                    },
-                    {
-                        "label": "Kegley and Raymond- The Global Future A Brief Introduction to World Politics",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1nW87CfwVR4pSHu5Wk-0_ST4i_AyGOLaz/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Wolff- An Introduction to Political Philosophy",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/127TC2CRgx4cOBZp-gWMtBAFqxCsFox1v/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Garner et al- Introduction to Politics (Second Canadian Edition)",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1GcMagOETbO8PkJdd0sF1go-XLSmWb_t3/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Carlsnaes et al- Handbook of International Relations",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1Du3p0ULFUVk9-I2PvdfRK23eqHS17E7R/view?usp=drive_link"
-                    }
-                ]
-            },
-            {
-                "label": "Reading Lists",
-                "children": [
-                    {
-                        "label": "International Relations Recommended Readings",
-                        "type": "xlsx",
-                        "link": "https://docs.google.com/spreadsheets/d/1_nLwlOogScQAzFjaJNdD7lhzBSIl_FPp/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
-                    },
-                    {
-                        "label": "Philosophy Reading List",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/15JOLo-fqCOKxRWFbRTtknAD4OrxhaykL/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Comparative Politics Reading List",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1PyTCTn_cG4lL5lG8-yTtV3kyvIEOeEeI/view?usp=drive_link"
-                    },
-                    {
-                        "label": "Political Theory Reading List",
-                        "type": "pdf",
-                        "link": "https://drive.google.com/file/d/1FBnMQtzinMVhpYmj6y-51oXjX-SpT-ar/view?usp=drive_link"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "label": "Academic Writing Resources",
-        "children": [
-            {
-                "label": "Intro to Academic Essay Writing Guide (Chinese)",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/13bzY81BCm-GFOrX2YlvTF3fist4pWTlo/view?usp=drive_link"
-            },
-            {
-                "label": "Avioding 'This Essay Will'",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1iqCsFqOuV4Qe_jzOyjPrmipHcpPYMb2I/view?usp=drive_link"
-            },
-            {
-                "label": "Annotated Bibliography",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1dlWS0S9xTtpu7MH_cS-GJK0NNr-M6s-W/view?usp=drive_link"
-            },
-            {
-                "label": "Literature Review",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1ReOQZrA43FV0HZqqYBtsMjAUU4SjUuI9/view?usp=drive_link"
-            },
-            {
-                "label": "General Writing Tips (Argumentative Essays)",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1JeMCT3ZNMuX5pblslnG4P5ClMacnPpx1/view?usp=drive_link"
-            },
-            {
-                "label": "How To Use Scientific Vocab in Your Essay",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1vE6r-eCtuXBewT77E37auxiQxjEAwxV1/view?usp=drive_link"
-            },
-            {
-                "label": "How to Structure a Paragraph",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1P-TG4xBfudiHkXDSUVyN7IGgI-cBLry-/view?usp=drive_link"
-            },
-            {
-                "label": "Making Your Quotes Work for You",
-                "type": "pdf",
-                "link": "https://drive.google.com/file/d/1veCPkqprO0wN3x5A6cMNd3VsK0n9ndkE/view?usp=drive_link"
             }
         ]
     },
