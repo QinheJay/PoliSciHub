@@ -1015,7 +1015,38 @@
                         "children": [
                             {
                                 "label": "General",
-                                "children": []
+                                "children": [
+                                    {
+                                        "label": "Liberalism- The state it's in",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1RMGwhe2KB-aKvSBzkoUfjWn1afasuX5f/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Liberalism and natural rights",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Wz0iCa21scZygriQmdGLnMkmD06EV4tM/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Liberalism and freedom",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1YYbFab7s8vdhDqsWfD16Kqep-DG18nsb/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "John Locke and the social contract theory",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1mUUssz7SegW--9CRT9rwFcuPjUhtW7M7/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Liberalism Poster",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1W1F3gRbxVNg5-GXkEmmCyFhtVR-4X7Cp/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Liberalism Quiz",
+                                        "type": "pptx",
+                                        "link": "https://docs.google.com/presentation/d/1wC56t2yZpSS0Gw7jF2eIl3X2DZHVLLz6/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -1024,7 +1055,68 @@
                         "children": [
                             {
                                 "label": "General",
-                                "children": []
+                                "children": [
+                                    {
+                                        "label": "Conservatism and the Conservative Party",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1h5RK1CRJaiaaaUUClwWnFqVCpe4Wwbq-/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Conservative views on human nature",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1WDjpX0zxgGzqtT9RvpGm8q4JfQF33fjc/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Conservatism and Brexit",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1wddu_CxIG1LnrEPHfERbj2Cipq5B_hKr/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Conservatism: A defence for the privileged and prosperous?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1PdLiavP4XMHRoyy-TD2NRvvKBTc5a4sO/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Conservatism and one nation principles",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1lAa9CheSwrovYpRjH37lJZNlMMDyzlcy/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Ayn Rand and American conservatism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Zb-uqpcEIh4bbNOO-cOaXa9-wFKmsmI-/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Why is Conservatism such a successful ideology?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1Y_yGc1SiaTP3-hejsuvj2BlQW1gk5h6P/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Michael Oakeshott",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1x3OPK0oSxwSorVvDEZASyf2CfaFMqsE7/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Paternalism and conservatism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1wyaKlivx0ZnBJH3_gWH2TH3t5r0WZIEZ/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The New Right: An uneasy partnership",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1fScajIxu79VOATDTuMxXD0kLZ9RmTQpo/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "One-nation conservatism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/14zNtdPgd40pU2Xss7E7pqjj1uKG8GBbE/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "How to answer an exam question on conservatism?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/18U3Hdt6BtbCnjirquTqmSYWzsp6nh7lx/view?usp=drive_link"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -1033,7 +1125,68 @@
                         "children": [
                             {
                                 "label": "General",
-                                "children": []
+                                "children": [
+                                    {
+                                        "label": "Socialism: the nature and history",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1na5Eu0GzGbaGteKbdx_dMzkHhSh0xchw/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Socialism: is social democracy a form of socialism?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1AcF8UgfqlM57X2ztQDBKEEysQdH_pviK/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Socialism: is social democracy now outmoded",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Kppwmh1EElPrI0D_8vxb_hF0H7-mQ0jb/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Case studies of Socialism",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1k5S_1R-jOLH_6IG1oQq3-kTk95MxZ7Tl/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Socialism and the Labour Party",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1cQcIg1PsXQ4vQSWulIvuO0qaO4cwAfoa/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Rosa Luxemburg and revolutionary socialism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1Regc95nNZ7f42wTlQMrzLyBi5jBeo32L/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Karl Marx's theory of history",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/10fKh_YbwvqPO6wjMYkCK1uBTLqWRwoML/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Socialism and equality",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1EcxIzHfhhL0k2WUG-XYAV0jZiSTvK0Af/view?usp=drive_link"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Additional readings",
+                                "children": [
+                                    {
+                                        "label": "Tucker- The Marx-Engels Reader",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1ljq5A_ruqE6J2BrcG4_Iv5toM2TJyF1p/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Jalee- How capitalism works",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/10kgrYTVsCSP4OUqk-SWUXNseX_Z_TIEB/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Mandel- Introductions to Marx's Capital Pelican Vol 1 2 3",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1AcEkXR7ZrxQNSEqDAuJ-miueas5_ousR/view?usp=drive_link"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -1042,7 +1195,33 @@
                         "children": [
                             {
                                 "label": "General",
-                                "children": []
+                                "children": [
+                                    {
+                                        "label": "Anarchism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1QSf9mao4YVeuGD2IdlNJYzTpMzekrF7G/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Anarchism in context",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1rwYoe-Idtu_gIyfqphbo2lxPWDTqKmsP/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Anarchism: Unity within diversity?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1sFpxktnGUz41PU6Rnu1YBuZ60PIYoMC2/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Anarchism: Is it possible in practice?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1RY2jF89drmOkxeKf_YLX49_l7E3e62h-/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Peter Kropotkin",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/16bJ3jq8JzREwbP-TAns3z-vF09pz7zKQ/view?usp=drive_link"
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -1051,7 +1230,43 @@
                         "children": [
                             {
                                 "label": "General",
-                                "children": []
+                                "children": [
+                                    {
+                                        "label": "Evolution of Feminism",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1aC_PCuVNRZ4qVhEQJXPNs56RhSkXEffk/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Feminism and Patriarchy",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/10hGhWG2X2UfyLVExqnLXFHMDS7pFcf4u/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Feminism: 'The personal is political' debate",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1rPqWKSaLUmsMO8K59AB7_kwGHyM9Y7r_/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "Feminism: Is it a coherent theory?",
+                                        "type": "pdf",
+                                        "link": "https://drive.google.com/file/d/1W3EAH91ndn2YvE9F26bSZlVhPhIrAllv/view?usp=drive_link"
+                                    },
+                                    {
+                                        "label": "The role of patriarchy in economic inequality",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1CbgcZaT9dS1OgM5WQ2hcVgek51CNh80L/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "What is intersectionality?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1W7WB-NUHsS_hzRxo5dLWhsEpwOJw7x5q/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    },
+                                    {
+                                        "label": "Femen: a new form of feminism?",
+                                        "type": "docx",
+                                        "link": "https://docs.google.com/document/d/1CbAiYyP8k7nYg9FLyTz0OAH2dmbVlZSL/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -1064,8 +1279,9 @@
                         "label": "Theories of Global Politics",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Comparative politics and theoretical approaches",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1HoUFmkv_r6a0MXL5iqIZTPNPMSoRBXsu/view?usp=drive_link"
                             }
                         ]
                     },
@@ -1073,8 +1289,44 @@
                         "label": "The State and Globalisation",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "The nation-state: Challenge, consensus, and cooperation",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1ISrxY0QGpqIgQP5aQXmyY83YDkamPXIs/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The future of the nation-state",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1jfpL0zi2fOkDGf4s22Iy5RMxvOkAgFzb/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Does economic globalisation create prosperity for all?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1ZwNw6YiexC14zyJ8wfTx2Ap0Grl4FPdx/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Globalisation: has cultural globalisation reshaped world politics?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1n1hLgIxLySiO0QvIzwSZ94uTPqM6nRFt/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The UK's changing relations with China",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1RN3Cr9gb36AhhBZg2PHtFaePWk77tsyS/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The resurgence of the nation state",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/13V0gEC449aFNOOoQ-4BqJTq8QA304nHW/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Cultural globalisation: positive or negative",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1How1EmzYQ7norrdLinQpPuoBeeqMvzlE/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Does globalisation make the world a better place?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1re1uiIcMOkhSPGpclTfkzqIo_YO8qQqA/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             }
                         ]
                     },
@@ -1082,8 +1334,59 @@
                         "label": "Political and Economic Global Governance",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Globalisation: has economic governance dealt with poverty?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/11SZLBmj-T7ujMOtI1sORfIIKyyfeIxSw/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Is the UN fit for purpose?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1QWQXp6Vkx1sFOxDbXhbRGnAsJeU2xJ_9/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Is the UN Security Council fit for purpose?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1vipV_Rdep_zNxmbD6tPRExua8LrtCWCS/view?usp=drive_link"
+                            },
+                            {
+                                "label": "An Introduction to NATO",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1NWn2JcF9iLxh1JcLI75Gj4ukuZbWCacx/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The changing face of NATO",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1L-_Var4CL7cPdRUaXKlbkM9Uj2CqXy_h/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The International Criminal Court",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1-pxrmlDcyMQxgtpFIewpM2z9UnN4_QKv/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The International Monetary Fund",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1JDGlTepjhMj4WgYX0A2Trp1Ukhx_d7Fs/view?usp=drive_link"
+                            },
+                            {
+                                "label": "State building in Afghanistan",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1-Nm0vAVEGRF4_TmH4SUO9SKwdjnjf3Ip/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Are Nigeria and Afghanistan 'fantastically corrupt'?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1TWoPDb20k2-PjTJ_J3gpyLFGVxnAf13o/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Global politics and City mayors",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/192wy6zcAyzMBWda55n-BmS1IgA03dFH0/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "Iran: the triumph of smart power",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1lRO_3PyLCmw_wqeS5jzkYrN1OEOBcn6H/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
                             }
                         ]
                     },
@@ -1091,17 +1394,34 @@
                         "label": "Human Rights and Environment Global Governance",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Power Developments",
-                        "children": [
+                                "label": "The migrant crisis in Europe",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1zMxzqviLohsqme1bIi1wksFuMvuRW989/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "Did NATO intervention improve human rights in Libya?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1690pDwPgPbra_0H0wtij7hUynH1Cx4QE/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "The complexities of human rights",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1TJ-F-TkJpN0Er5n0nmW3zPZfDB0lICtN/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Global governance and the environment",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1vIjzD-pQkUtBnV3KKCG-69BRGRRYOe7M/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Climate change and global governance",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1ADWO-jXnPDzSp1IoHaJzpYkuGuk0uojI/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Global civil society: the environment",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1AZCPqTYJyvFQwsw66a50rT7GRXkRZAdI/view?usp=drive_link"
                             }
                         ]
                     },
@@ -1109,8 +1429,49 @@
                         "label": "Regionalism and the EU",
                         "children": [
                             {
-                                "label": "General",
-                                "children": []
+                                "label": "The European Union's 4 freedoms",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1noxr1LGTmQprSQw0K2z5mWMNYuAtY_h_/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Is the EU doomed?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1-1ubc_nWKxcMuq0oH_PPGhvUAGS6qXf5/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "The EU: too much regionalism or too few?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1HCHeERL3O6SsCkpYbywWSFAqXX7xB1Bm/view?usp=drive_link"
+                            },
+                            {
+                                "label": "What is the future of the European Union?",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1kk-Tvjcsq4-xI4G41vuuDVVCDZcFgLdv/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Is the EU a failed project?",
+                                "type": "docx",
+                                "link": "https://docs.google.com/document/d/1e_akjvuro4_K_ZSm0Z4zJ89vC6wAcyPn/edit?usp=drive_link&ouid=105541633004952955981&rtpof=true&sd=true"
+                            },
+                            {
+                                "label": "The legitimacy of the EU",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1huSIZWeWAswgiRRLm1_ga-QLULFRPMNK/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The power and influence of the European Union",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/11oeCiBjEWgGzGPQ0mE0clwZKSfNiRf5E/view?usp=drive_link"
+                            },
+                            {
+                                "label": "The African Union and global politics",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1kT8fh1H-MYV_AXjBIj89RPolRhOh61ib/view?usp=drive_link"
+                            },
+                            {
+                                "label": "Essay on superpowers",
+                                "type": "pdf",
+                                "link": "https://drive.google.com/file/d/1nI3B8GxKWq5XrKFs34ltWr0Z85vbk0mq/view?usp=drive_link"
                             }
                         ]
                     }
