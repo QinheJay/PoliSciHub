@@ -16,6 +16,7 @@ import router from '../../router/router';
                 </n-flex>
                 <n-flex :size="24">
                     <n-button text @click="router.push({ name: 'event' })">🔥 Hot Event</n-button>
+                    <n-button text @click="router.push({ name: 'article' })">Article</n-button>
                     <n-button text @click="router.push({ name: 'ngo' })">Chinese NGO</n-button>
                     <n-button text @click="router.push({ name: 'resource' })">Resource</n-button>
                 </n-flex>

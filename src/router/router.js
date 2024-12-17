@@ -18,6 +18,16 @@ const routes = [
                 component: () => store.state.display.isMobile ? import('../components/event/mEvent.vue') : import('../components/event/event.vue'),
             },
             {
+                path: "article",
+                name: "article",
+                component: () => store.state.display.isMobile ? import('../components/article/mArticle.vue') : import('../components/article/article.vue'),
+            },
+            {
+                path: "article/:articleKey",
+                name: "article-detail",
+                component: () => store.state.display.isMobile ? import('../components/article/mArticleDetail.vue') : import('../components/article/articleDetail.vue'),
+            },
+            {
                 path: "non-governmental-organization",
                 name: "ngo",
                 component: () => store.state.display.isMobile ? import('../components/ngo/mNgo.vue') : import('../components/ngo/ngo.vue')
