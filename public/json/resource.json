@@ -1828,5 +1828,20 @@
                 "link": "https://drive.google.com/drive/folders/1henGDqKVyTwyfs5ogB3kbtS1KOMmaoav?usp=drive_link"
             }
         ]
+    },
+    {
+        "label": "IG History",
+        "children": [
+            {
+                "label": "Introduction to IG History APP",
+                "type": ".com",
+                "link": "https://qinhejay.github.io/IG-HistoryAPP/#/"
+            },
+            {
+                "label": "Revision Notes for IGCSE History (0470)",
+                "type": "Google Drive",
+                "link": "https://drive.google.com/drive/folders/15rHTXtpT_afTJdW_fiixOkNe9f80BRn0?usp=sharing"
+            }
+        ]
     }
 ]
