@@ -1,21 +1,22 @@
 [
+    
     {
-        "date": "9 Feb 2025",
-        "event": "General election",
-        "location": "Ecuador",
-        "introduction": "A new president and 137 members of the National Assembly (legislature) will be elected for a four-year term. President Daniel Noboa and left-leaning Luisa González, who came second in the 2023 snap elections, are the likely front runners in the presidential race, which is set to be highly competitive and uncertain. Despite modest agenda results during his government, Noboa will likely be re-elected by a tight margin in a run-off on 13 April."
-    },
-    {
-        "date": "10-11 Feb 2025",
-        "event": "AI Action Summit",
-        "location": "Global",
-        "introduction": "The third summit of its kind will focus on public interest AI; the future of work; innovation and culture; trust in AI; and global AI governance. It will be held in Paris (France)."
-    },
-    {
-        "date": "28 Feb - 30 Mar 2025",
-        "event": "Muslim holy month of Ramadan",
+        "date": "28 Feb 2025",
+        "event": "Start of Muslim holy month of Ramadan",
         "location": "Global",
         "introduction": "Terrorism threats and propaganda can be elevated in some regions during Ramadan. In addition, protests have occurred in Muslim-majority countries during Ramadan and the celebration of Eid al-Fitr (marking the end of Ramadan). Ramadan could also trigger anti-Muslim hate crimes or sentiment in some non-Muslim majority countries. The Middle East conflicts will likely drive increased threats during Ramadan in 2025."
+    },
+    {
+        "date": "5 Mar 2025",
+        "event": "Annual “Two Sessions” meetings",
+        "location": "PRC",
+        "introduction": "Annual meetings of the government’s top advisory body, the Chinese People’s Political Consultative Conference and the National Peoples’ Congress will occur, outlining China’s economic policies."
+    },
+    {
+        "date": "11 Mar 2025",
+        "event": "General election",
+        "location": "Greenland",
+        "introduction": "The elections to the 31-seat legislature will take place amid heightened scrutiny given US President Donald Trump’s interest in the territory. While the next government is likely to be pro-independence from Denmark, no immediate change to Greenland’s status is likely."
     },
     {
         "date": "29 Mar 2025",
@@ -30,16 +31,22 @@
         "introduction": "Threats against Jewish communities, people and assets are likely to be elevated in some countries during the Passover religious holiday. Islamist extremist groups have planned or conducted attacks targeting Passover celebrations in Israel. The Israel-Hamas conflict is likely to increase the intent of Islamist and right-wing extremists to target Jewish communities and religious assets during Passover."
     },
     {
-        "date": "20 Apr 2025",
-        "event": "Christian holiday of Easter Sunday",
+        "date": "21 Apr 2025",
+        "event": "World Bank and International Monetary Fund Spring Meetings",
         "location": "Global",
-        "introduction": "The Easter religious holiday is not generally associated with elevated violent extremist threats, though attacks have targeted religious services in some countries (notably in Sri Lanka in 2019)."
+        "introduction": "Stakeholders and decision-makers will discuss critical issues including the inflation outlook, growth trends and wider geopolitical developments. "
     },
     {
         "date": "1 May 2025",
         "event": "May Day",
         "location": "Global",
         "introduction": "May Day is typically celebrated by socialist and communist political movements and is a global day of action for anti-capitalist, anarchist and other left-wing activists. May Day protests in parts of Europe and North America involve vandalism, property damage and clashes with law enforcement and right-wing counter-demonstrators."
+    },
+    {
+        "date": "4 May 2025",
+        "event": "General election",
+        "location": "Romania",
+        "introduction": "Romania in December 2024 annulled the presidential result citing Russian election interference. The rescheduled election is unlikely to fundamentally change the political landscape, which benefits far-right candidate Calin Georgescu. Georgescu is likely to win the election in a run-off on 18 May against opposition centrist Save Romania Union candidate Elena Lasconi."
     },
     {
         "date": "12 May 2025",
@@ -52,6 +59,17 @@
         "event": "Nakba Day",
         "location": "Israel, Palestinian Territories",
         "introduction": "Palestinians commemorate Nakba (“catastrophe”) – a term they use to refer to when more than 700,000 Arabs fled or were expelled during the creation of Israel. The Middle East conflicts will drive higher turnouts at related protests globally. "
+    },
+    {
+        "date": "18 May 2025",
+        "event": "Presidential Election",
+        "location": "Poland",
+        "introduction": "ncumbent Andrzej Duda is ineligible for re-election. The election is likely to go to a second-round run-off on 1 June, and Warsaw mayor Rafal Trzaskowski, the candidate for the governing coalition, is the likely winner. Trzaskowski’s election would enable the coalition to pursue its agenda, while a victory by the opposition candidate would disrupt its agenda significantly."
+    }, {
+        "date": "30 May 2025",
+        "event": "IISS Shangri-La Dialogue",
+        "location": "Singapore",
+        "introduction": "Stakeholders in defence, security and geopolitics will discuss critical Indo-Pacific security challenges in Singapore."
     },
     {
         "date": "June 2025",
@@ -78,15 +96,45 @@
         "introduction": "Sofia is expected to adopt the euro and become the 21st eurozone member. In July 2024, the Bulgarian parliament passed the relevant bill on its first reading."
     },
     {
+        "date": "17 Aug 2025",
+        "event": "General election",
+        "location": "Bolivia",
+        "introduction": "Voters will elect the President, Vice President, and members of the legislative chambers. The elections are shaped by significant internal divisions within the ruling Movement for Socialism (MAS) party, as current President Luis Arce and former president Evo Morales, who has been barred from running, vie for influence."
+    },
+    {
         "date": "September 2025",
         "event": "First crewed mission to the Moon since 1972",
         "location": "Global",
         "introduction": "Artemis II, the first crewed mission to the Moon since 1972 and second mission of the Artemis Program, is scheduled to launch no earlier than September 2025."
     },
     {
-        "date": "September 2025",
-        "event": "Federal elections",
-        "location": "Germany",
-        "introduction": "The far right is expected to showcase its growing support during the national elections. It made significant gains in three state elections in 2024."
+        "date": "8 Sep 2025",
+        "event": "Parliamentary elections",
+        "location": "Norway",
+        "introduction": "Norway’s polls will decide the composition of the 169-seat parliament (Storting) and indicate who might become the next prime minister."
+    },
+    {
+        "date": "9 Sep 2025",
+        "event": "UN General Assembly",
+        "location": "Global",
+        "introduction": "The event will bring together global leaders, stakeholders, policymakers and experts to discuss a plethora of critical issues."
+    },
+    {
+        "date": "10 Oct 2025",
+        "event": "UN Climate Change Conference (COP30)",
+        "location": "Global",
+        "introduction": "Brazil will host the conference in to the hope of making significant progress in climate agreements after the disappointment of COP29."
+    },
+    {
+        "date": "13 Oct 2025",
+        "event": "World Bank and International Monetary Fund (IMF) Annual Meeting",
+        "location": "Global",
+        "introduction": "Experts, politicians and financial stakeholders will gather in Washington DC (US) to discuss critically relevant issues to the global economy."
+    },
+    {
+        "date": "22 Oct 2025",
+        "event": "G20 Leaders’ Summit",
+        "location": "Global",
+        "introduction": "South Africa will host global leaders of the G20 in Johannesburg. "
     }
 ]
