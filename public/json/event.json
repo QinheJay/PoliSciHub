@@ -1,140 +1,98 @@
 [
-    
     {
-        "date": "28 Feb 2025",
-        "event": "Start of Muslim holy month of Ramadan",
+        "date": "4 Nov 2025",
+        "event": "Off-year Elections",
+        "location": "United States",
+        "introduction": "The off-year elections will include gubernatorial and state legislative races in several states, alongside numerous mayoral and local office contests."
+    },
+    {
+        "date": "7 Nov 2025",
+        "event": "G20 Joint Finance and Health Ministerial Meeting",
         "location": "Global",
-        "introduction": "Terrorism threats and propaganda can be elevated in some regions during Ramadan. In addition, protests have occurred in Muslim-majority countries during Ramadan and the celebration of Eid al-Fitr (marking the end of Ramadan). Ramadan could also trigger anti-Muslim hate crimes or sentiment in some non-Muslim majority countries. The Middle East conflicts will likely drive increased threats during Ramadan in 2025."
+        "introduction": "Held virtually, this meeting will focus on mobilising financing mechanisms to tackle global health challenges, particularly in the Global South."
     },
     {
-        "date": "5 Mar 2025",
-        "event": "Annual “Two Sessions” meetings",
-        "location": "PRC",
-        "introduction": "Annual meetings of the government’s top advisory body, the Chinese People’s Political Consultative Conference and the National Peoples’ Congress will occur, outlining China’s economic policies."
-    },
-    {
-        "date": "11 Mar 2025",
-        "event": "General election",
-        "location": "Greenland",
-        "introduction": "The elections to the 31-seat legislature will take place amid heightened scrutiny given US President Donald Trump’s interest in the territory. While the next government is likely to be pro-independence from Denmark, no immediate change to Greenland’s status is likely."
-    },
-    {
-        "date": "29 Mar 2025",
-        "event": "Day of the Young Combatant",
-        "location": "Chile",
-        "introduction": "The day commemorates the 1985 killings of two brothers by the police. Violent protests in Santiago and other cities traditionally occur on the day."
-    },
-    {
-        "date": "12-20 Apr 2025",
-        "event": "Jewish religious holiday Passover (Pesach)",
-        "location": "Global",
-        "introduction": "Threats against Jewish communities, people and assets are likely to be elevated in some countries during the Passover religious holiday. Islamist extremist groups have planned or conducted attacks targeting Passover celebrations in Israel. The Israel-Hamas conflict is likely to increase the intent of Islamist and right-wing extremists to target Jewish communities and religious assets during Passover."
-    },
-    {
-        "date": "21 Apr 2025",
-        "event": "World Bank and International Monetary Fund Spring Meetings",
-        "location": "Global",
-        "introduction": "Stakeholders and decision-makers will discuss critical issues including the inflation outlook, growth trends and wider geopolitical developments. "
-    },
-    {
-        "date": "1 May 2025",
-        "event": "May Day",
-        "location": "Global",
-        "introduction": "May Day is typically celebrated by socialist and communist political movements and is a global day of action for anti-capitalist, anarchist and other left-wing activists. May Day protests in parts of Europe and North America involve vandalism, property damage and clashes with law enforcement and right-wing counter-demonstrators."
-    },
-    {
-        "date": "4 May 2025",
-        "event": "General election",
-        "location": "Romania",
-        "introduction": "Romania in December 2024 annulled the presidential result citing Russian election interference. The rescheduled election is unlikely to fundamentally change the political landscape, which benefits far-right candidate Calin Georgescu. Georgescu is likely to win the election in a run-off on 18 May against opposition centrist Save Romania Union candidate Elena Lasconi."
-    },
-    {
-        "date": "12 May 2025",
-        "event": "General election",
-        "location": "Philippines",
-        "introduction": "All 318 seats in the House of Representatives (lower house) and 12 of the 24 seats in the Senate (upper house) will be contested. Local elections will also be held for the executive and legislative branches."
-    },
-    {
-        "date": "15 May 2025",
-        "event": "Nakba Day",
-        "location": "Israel, Palestinian Territories",
-        "introduction": "Palestinians commemorate Nakba (“catastrophe”) – a term they use to refer to when more than 700,000 Arabs fled or were expelled during the creation of Israel. The Middle East conflicts will drive higher turnouts at related protests globally. "
-    },
-    {
-        "date": "18 May 2025",
-        "event": "Presidential Election",
-        "location": "Poland",
-        "introduction": "ncumbent Andrzej Duda is ineligible for re-election. The election is likely to go to a second-round run-off on 1 June, and Warsaw mayor Rafal Trzaskowski, the candidate for the governing coalition, is the likely winner. Trzaskowski’s election would enable the coalition to pursue its agenda, while a victory by the opposition candidate would disrupt its agenda significantly."
-    }, {
-        "date": "30 May 2025",
-        "event": "IISS Shangri-La Dialogue",
-        "location": "Singapore",
-        "introduction": "Stakeholders in defence, security and geopolitics will discuss critical Indo-Pacific security challenges in Singapore."
-    },
-    {
-        "date": "June 2025",
-        "event": "Deadline for a Global Pandemic Treaty",
-        "location": "Global",
-        "introduction": "WHO member states have extended the mandate of the Intergovernmental Negotiating Body, established in December 2021, to finish its work to negotiate a Global Pandemic Treaty."
-    },
-    {
-        "date": "June 2025",
-        "event": "G7 Leaders’ Summit",
-        "location": "Global",
-        "introduction": "Canada will host the G7 Leaders Summit in Kananaskis (Alberta)."
-    },
-    {
-        "date": "24-25 Jun 2025",
-        "event": "North Atlantic Treaty Organization (NATO) Summit",
-        "location": "Global",
-        "introduction": "The Netherlands for the first time will host the NATO Summit. It will take place in The Hague. "
-    },
-    {
-        "date": "1 July 2025",
-        "event": "Adopts the Euro",
-        "location": "Bulgaria",
-        "introduction": "Sofia is expected to adopt the euro and become the 21st eurozone member. In July 2024, the Bulgarian parliament passed the relevant bill on its first reading."
-    },
-    {
-        "date": "17 Aug 2025",
-        "event": "General election",
-        "location": "Bolivia",
-        "introduction": "Voters will elect the President, Vice President, and members of the legislative chambers. The elections are shaped by significant internal divisions within the ruling Movement for Socialism (MAS) party, as current President Luis Arce and former president Evo Morales, who has been barred from running, vie for influence."
-    },
-    {
-        "date": "September 2025",
-        "event": "First crewed mission to the Moon since 1972",
-        "location": "Global",
-        "introduction": "Artemis II, the first crewed mission to the Moon since 1972 and second mission of the Artemis Program, is scheduled to launch no earlier than September 2025."
-    },
-    {
-        "date": "8 Sep 2025",
-        "event": "Parliamentary elections",
-        "location": "Norway",
-        "introduction": "Norway’s polls will decide the composition of the 169-seat parliament (Storting) and indicate who might become the next prime minister."
-    },
-    {
-        "date": "9 Sep 2025",
-        "event": "UN General Assembly",
-        "location": "Global",
-        "introduction": "The event will bring together global leaders, stakeholders, policymakers and experts to discuss a plethora of critical issues."
-    },
-    {
-        "date": "10 Oct 2025",
+        "date": "10–20 Nov 2025",
         "event": "UN Climate Change Conference (COP30)",
         "location": "Global",
-        "introduction": "Brazil will host the conference in to the hope of making significant progress in climate agreements after the disappointment of COP29."
+        "introduction": "Brazil will host COP30, aiming to achieve significant progress on global climate agreements."
     },
     {
-        "date": "13 Oct 2025",
-        "event": "World Bank and International Monetary Fund (IMF) Annual Meeting",
-        "location": "Global",
-        "introduction": "Experts, politicians and financial stakeholders will gather in Washington DC (US) to discuss critically relevant issues to the global economy."
+        "date": "11 Nov 2025",
+        "event": "Parliamentary Election",
+        "location": "Iraq",
+        "introduction": "Iraq will hold parliamentary elections amid uncertainty over a possible boycott by Shia cleric Muqtada al-Sadr."
     },
     {
-        "date": "22 Oct 2025",
+        "date": "11–15 Nov 2025",
+        "event": "18th European Public Health Conference 2025",
+        "location": "Europe",
+        "introduction": "Taking place at Finlandia Hall in Helsinki, the conference will explore how investing in health promotes sustainable development and well-being."
+    },
+    {
+        "date": "16 Nov 2025",
+        "event": "Presidential Elections",
+        "location": "Chile",
+        "introduction": "Chile will elect a new president and legislators, with right-wing candidate Evelyn Matthei favoured to win; a runoff is scheduled for 14 December if required."
+    },
+    {
+        "date": "18 Nov 2025",
+        "event": "Local Elections",
+        "location": "Denmark",
+        "introduction": "Voters across Denmark will elect 2,434 local and 205 regional councillors in all 98 municipalities and five regions."
+    },
+    {
+        "date": "22–23 Nov 2025",
         "event": "G20 Leaders’ Summit",
         "location": "Global",
-        "introduction": "South Africa will host global leaders of the G20 in Johannesburg. "
+        "introduction": "South Africa will host the 2025 G20 Summit under the theme 'Solidarity, Equality, and Sustainability,' focusing on climate resilience, debt relief, and inclusive growth."
+    },
+    {
+        "date": "23 Nov 2025",
+        "event": "Presidential Election",
+        "location": "Bosnia and Herzegovina",
+        "introduction": "Early elections in Republika Srpska follow a court ruling that revoked Milorad Dodik’s powers; Dodik has threatened to block the vote, heightening tensions."
+    },
+    {
+        "date": "26 Nov 2025",
+        "event": "EU–AU Summit",
+        "location": "Global",
+        "introduction": "EU and African Union leaders will meet in Luanda, Angola, to discuss peace, trade, green development, digitalisation, and human mobility."
+    },
+    {
+        "date": "30 Nov 2025",
+        "event": "General Election",
+        "location": "Honduras",
+        "introduction": "Honduras will elect a new president, National Congress members, and 20 representatives to the Central American Parliament."
+    },
+    {
+        "date": "5–6 Dec 2025",
+        "event": "23rd India–Russia Annual Summit",
+        "location": "Russia/India",
+        "introduction": "Prime Minister Narendra Modi will host President Vladimir Putin in India for the annual bilateral summit."
+    },
+    {
+        "date": "6–7 Dec 2025",
+        "event": "Doha Forum 2025",
+        "location": "Global",
+        "introduction": "The 2025 Doha Forum will convene under the theme 'Diplomacy, Dialogue and Diversity,' emphasising global cooperation."
+    },
+    {
+        "date": "3 Jan 2025",
+        "event": "Sixth Anniversary of the Killing of Gen Qasem Soleimani",
+        "location": "Global",
+        "introduction": "The anniversary of the U.S. killing of Iranian Gen Qasem Soleimani may trigger increased extremist propaganda activity."
+    },
+    {
+        "date": "1–15 Feb 2026",
+        "event": "General Elections",
+        "location": "Bangladesh",
+        "introduction": "Bangladesh will hold general elections, with the Bangladesh Nationalist Party expected to win and form the next government."
+    },
+    {
+        "date": "24 Feb 2026",
+        "event": "Fourth Anniversary of Russia’s Invasion of Ukraine",
+        "location": "Ukraine/Russia",
+        "introduction": "This anniversary will mark four years since Russia’s full-scale invasion of Ukraine began in 2022."
     }
 ]
