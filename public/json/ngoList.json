@@ -2170,5 +2170,137 @@
         "regions": "Domestic",
         "address": "澳门士多纽拜斯大马路3号",
         "introduction": "澳门主要的教育团体，推动教育事业发展和教师专业成长。"
-    }
+    },
+{
+"id": 182,
+"cn": "台湾教师联盟",
+"en": "Taiwan Teachers Union",
+"email": "service@ttu.org.tw",
+"telephone": "+886-2-2396-8765",
+"website": "https://www.ttu.org.tw/",
+"type": "Education",
+"regions": "Domestic",
+"address": "台北市中正区济南路二段46号3楼",
+"introduction": "维护教师专业权益，推动教育改革与教师专业发展。"
+},
+{
+"id": 183,
+"cn": "香港青年协会",
+"en": "Hong Kong Federation of Youth Groups",
+"email": "info@hkfyg.org.hk",
+"telephone": "(852) 2527 2448",
+"website": "https://www.hkfyg.org.hk/",
+"type": "Education",
+"regions": "Domestic",
+"address": "香港北角百福道21号香港青年协会大厦",
+"introduction": "香港最具规模的青年服务机构，提供多元化青年发展及支援服务。"
+},
+{
+"id": 184,
+"cn": "澳门青年联合会",
+"en": "Macau Youth Federation",
+"email": "info@myf.org.mo",
+"telephone": "(853) 2856 3636",
+"website": "https://www.myf.org.mo/",
+"type": "Education",
+"regions": "Domestic",
+"address": "澳门罗理基博士大马路600E号第一国际商业中心15楼",
+"introduction": "团结澳门各界青年，促进青年成长与发展，培养青年领袖人才。"
+},
+{
+"id": 185,
+"cn": "台湾青年民主协会",
+"en": "Taiwan Youth Association for Democracy",
+"email": "service@tyad.org.tw",
+"telephone": "+886-2-2365-8787",
+"website": "https://www.tyad.org.tw/",
+"type": "Education",
+"regions": "Domestic",
+"address": "台北市大安区罗斯福路三段293号4楼",
+"introduction": "推动青年参与公共事务，培养青年公民意识与民主素养。"
+},
+{
+"id": 186,
+"cn": "香港艺术发展局",
+"en": "Hong Kong Arts Development Council",
+"email": "info@hkadc.org.hk",
+"telephone": "(852) 2820 1008",
+"website": "https://www.hkadc.org.hk/",
+"type": "Other",
+"regions": "Domestic",
+"address": "香港鲗鱼涌英皇道979号太古坊和城大厦东翼14楼",
+"introduction": "推动香港艺术发展的法定机构，支持艺术创作、教育及推广。"
+},
+{
+"id": 187,
+"cn": "澳门文化局",
+"en": "Macau Cultural Affairs Bureau",
+"email": "info@icm.gov.mo",
+"telephone": "(853) 2836 6866",
+"website": "https://www.icm.gov.mo/",
+"type": "Other",
+"regions": "Domestic",
+"address": "澳门塔石广场文化局大楼",
+"introduction": "负责澳门文化事务的政府部门，推动文化传承与艺术发展。"
+},
+{
+"id": 188,
+"cn": "台湾文化艺术基金会",
+"en": "Taiwan Cultural and Arts Foundation",
+"email": "service@tcaf.org.tw",
+"telephone": "+886-2-2711-8800",
+"website": "https://www.tcaf.org.tw/",
+"type": "Other",
+"regions": "Domestic",
+"address": "台北市松山区南京东路四段16号6楼",
+"introduction": "支持文化艺术发展，推动艺术创作与国际文化交流。"
+},
+{
+"id": 189,
+"cn": "香港体育协会暨奥林匹克委员会",
+"en": "Sports Federation & Olympic Committee of Hong Kong, China",
+"email": "info@hkolympic.org",
+"telephone": "(852) 2504 8566",
+"website": "https://www.hkolympic.org/",
+"type": "Other",
+"regions": "Domestic",
+"address": "香港铜锣湾扫杆埔大球场径一号奥林匹克大楼",
+"introduction": "负责香港体育发展及奥林匹克事务的法定机构。"
+},
+{
+"id": 190,
+"cn": "澳门体育委员会",
+"en": "Macau Sports Committee",
+"email": "info@sport.gov.mo",
+"telephone": "(853) 2858 0762",
+"website": "https://www.sport.gov.mo/",
+"type": "Other",
+"regions": "Domestic",
+"address": "澳门罗理基博士大马路澳门综艺馆第一座四楼",
+"introduction": "负责协调及推动澳门体育发展的政府咨询机构。"
+},
+{
+"id": 191,
+"cn": "台湾体育运动发展协会",
+"en": "Taiwan Sports Development Association",
+"email": "service@tsda.org.tw",
+"telephone": "+886-2-2778-3456",
+"website": "https://www.tsda.org.tw/",
+"type": "Other",
+"regions": "Domestic",
+"address": "台北市中山区朱仑街20号6楼",
+"introduction": "推动台湾体育运动发展，培育体育人才，促进全民体育。"
+},
+{
+"id": 192,
+"cn": "香港公益金",
+"en": "The Community Chest of Hong Kong",
+"email": "info@commchest.org",
+"telephone": "(852) 2599 6111",
+"website": "https://www.commchest.org/",
+"type": "Social Welfare",
+"regions": "Domestic",
+"address": "香港湾仔告士打道39号夏悫大厦20楼",
+"introduction": "香港主要募款机构之一，资助超过150间会员社会福利机构。"
+}
 ]
