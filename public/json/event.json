@@ -78,10 +78,16 @@
         "introduction": "The 2025 Doha Forum will convene under the theme 'Diplomacy, Dialogue and Diversity,' emphasising global cooperation."
     },
     {
-        "date": "3 Jan 2025",
+        "date": "3 Jan 2026",
         "event": "Sixth Anniversary of the Killing of Gen Qasem Soleimani",
         "location": "Global",
         "introduction": "The anniversary of the U.S. killing of Iranian Gen Qasem Soleimani may trigger increased extremist propaganda activity."
+    },
+    {
+        "date": "15 Jan 2026",
+        "event": "ASEAN Summit 2026",
+        "location": "Southeast Asia",
+        "introduction": "Leaders of the Association of Southeast Asian Nations (ASEAN) will convene to review regional security, economic integration and Indo-Pacific partnerships."
     },
     {
         "date": "1–15 Feb 2026",
@@ -94,5 +100,71 @@
         "event": "Fourth Anniversary of Russia’s Invasion of Ukraine",
         "location": "Ukraine/Russia",
         "introduction": "This anniversary will mark four years since Russia’s full-scale invasion of Ukraine began in 2022."
+    },
+    {
+        "date": "20 Mar 2026",
+        "event": "Spring Parliamentary Elections",
+        "location": "Australia",
+        "introduction": "Australia will hold its federal parliamentary elections, potentially reshaping the government and major policy direction in trade and climate."
+    },
+    {
+        "date": "11 Jun – 19 Jul 2026",
+        "event": "FIFA World Cup 2026",
+        "location": "United States / Canada / Mexico",
+        "introduction": "The 2026 FIFA World Cup will be co-hosted by the U.S., Canada and Mexico — the first time three countries host and the first with 48 teams. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+        "date": "12 Jun – 5 Jul 2026",
+        "event": "ICC Women’s T20 World Cup 2026",
+        "location": "England",
+        "introduction": "The 2026 ICC Women's T20 World Cup will feature 12 teams (an expanded format) and is hosted by England. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+        "date": "4–13 Sep 2026",
+        "event": "FIBA Women’s Basketball World Cup 2026",
+        "location": "Germany",
+        "introduction": "The 2026 FIBA Women's Basketball World Cup will take place in Berlin, with 16 teams participating. :contentReference[oaicite:5]{index=5}"
+    },
+    {
+        "date": "21 Aug – 6 Sep 2026",
+        "event": "Women's European Volleyball Championship 2026",
+        "location": "Azerbaijan/Czech Republic/Sweden/Turkey",
+        "introduction": "The 2026 Women's European Volleyball Championship will be held across four countries for the first time in an even-numbered year. :contentReference[oaicite:7]{index=7}"
+    },
+    {
+        "date": "24 Oct – 8 Nov 2026",
+        "event": "General Election",
+        "location": "Brazil",
+        "introduction": "The Brazil general election is scheduled, potentially reshaping Latin America’s largest democracy. :contentReference[oaicite:9]{index=9}"
+    },
+    {
+        "date": "3 Nov 2026",
+        "event": "Midterm Elections",
+        "location": "United States",
+        "introduction": "The United States will hold its mid-term elections in 2026, which will influence the balance of power in Congress. :contentReference[oaicite:11]{index=11}"
+    },
+    {
+        "date": "10–20 Nov 2026",
+        "event": "UN Climate Change Conference (COP31)",
+        "location": "Global",
+        "introduction": "The next iteration of COP31 will bring global leaders together once again to review progress on the Paris Agreement and global emission targets."
+    },
+    {
+        "date": "28 Nov 2026",
+        "event": "State Election",
+        "location": "Victoria, Australia",
+        "introduction": "The 2026 Victorian state election will be held to elect the 61st Parliament of Victoria, including all 88 seats in the Legislative Assembly and 40 seats in the Legislative Council. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+        "date": "December 2026",
+        "event": "Presidential Election",
+        "location": "The Gambia",
+        "introduction": "The 2026 Gambian presidential election is scheduled for December 2026, where incumbent Adama Barrow is running for a third term. :contentReference[oaicite:4]{index=4}"
+    },
+    {
+        "date": "22 Dec 2026",
+        "event": "General Election",
+        "location": "South Sudan",
+        "introduction": "The 2026 South Sudanese general election, long-delayed, will finally take place in South Sudan on 22 December 2026, including the presidential election and legislative assembly contests. :contentReference[oaicite:6]{index=6}"
     }
 ]
